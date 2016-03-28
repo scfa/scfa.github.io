@@ -2,12 +2,13 @@
 
 ##  ***#PartiuFormar***
    
-### **Versão 0.1**
+### **Versão 0.2**
 
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 -----|------|---------|-------
 21/03/2016|1.0|Criação do documento|Hugo Martins / Jônnatas Lennon / Vitor Nere
+27/03/2016|1.0|Adicionado novas regras|Vitor Nere
 
 #### 1.                  Introdução
 
@@ -39,24 +40,24 @@ RN01|O usuário durante a realização do cadastro no sistema, deverá informar 
 RN02|A senha do usuário deve ser no mínimo de 8 caracteres, possuindo letras e números, podendo conter caracteres especiais. 
 RN03| No formulário do cadastro, deverá conter dois campos para a validação da senha, sendo obrigatório o preenchimento.
 
-##### Alunos
-ID| Descrição
------|----------------------------------------------------------------
-RN10| 
-RN11| 
-RN12| 
-
-##### Professores
-ID| Descrição
------|----------------------------------------------------------------
-RN13| 
-RN14| 
-
 ##### Disciplinas
 ID| Descrição
 -----|----------------------------------------------------------------
 RN04|Só poderá ser cadastrada por um administrador do sistema com código único.
-RN05|.
-RN06|
-RN07|
-RN08|
+
+##### Fluxo
+ID| Descrição
+-----|----------------------------------------------------------------
+RN05|Um fluxo padrão é gerado a partir da escolha do curso pelo aluno.
+RN06|O aluno poderá editar seu fluxo padrão ou criar novos fluxos, podendo decidir qual será seu fluxo padrão.
+
+##### Grade
+ID| Descrição
+-----|----------------------------------------------------------------
+RN07|Uma grade padrão é gerada a partir do planejamento de fluxo e o semestre cursado pelo aluno.
+RN08|É possível alterar a grade e o seu estado a qualquer momento.
+
+##### IRA
+ID| Descrição
+-----|----------------------------------------------------------------
+RN09|O cálculo do IRA (Índice de Rendimento Acadêmico) é baseado na fórmula retirada do guia do calouro e pode ser alterada semestralmente, abaixo encontra-se como é realizado o cálculo: ![](http://i.imgur.com/DUna2dt.jpg)
