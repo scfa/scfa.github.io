@@ -68,7 +68,7 @@ Inicialmente este artefato apresenta, uma introdução sobre o projeto, para o c
 * **RNF 18** - A arquitetura deve respeitar o padrão MVC (_model-view-controller_).
 * **RNF 19** - O sistema deve obedecer os padrões definidos na orientação a objetos.
 * **RNF 20** - O sistema deve obedecer as convenções estabelecidas no _Ruby on Rails_ 4.
-* **17F 21** - O sistema deve obedecer os padrões definidos em HTML 5, CSS 3 e _javascript_.
+* **RNF 21** - O sistema deve obedecer os padrões definidos em HTML 5, CSS 3 e _javascript_.
 
 #### 9. Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line
 * **RNF 22 -** Deve-se criar uma _Wiki_ contendo todas as informações do projeto.
