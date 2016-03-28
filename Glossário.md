@@ -23,22 +23,3 @@ Encontra-se neste documento todas as definições e explicações necessárias p
 
 #### 2. Definições
 
-##### 2.1 Documento de Visão
-
-##### 2.1 Documento de Arquitetura
-
-##### 2.1 Regra de Negócio 
-
-##### 2.1 Regra de Negócio 
-
-##### 2.1 Regra de Negócio 
-
-##### 2.1 Regra de Negócio 
-
-##### 2.1 Regra de Negócio 
-
-##### 2.1 Regra de Negócio 
-
-##### 2.1 Regra de Negócio 
-
-##### 2.1 Regra de Negócio 
