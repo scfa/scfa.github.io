@@ -101,14 +101,30 @@ Esta seção tem a função de informar de forma resumida todas as característi
 
 ##### 6.1 Tabela de Requisitos
 
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+Requisito|Descrição|Prioridade|Dependência
+---------|---------|----------|---------------------------------------------
+RF01 - Cadastrar Usuários|O sistema deve permitir o cadastro de usuários (Alunos, Professores e Administradores do sistema)|Alta|
+RF02 - Deletar Usuários||Alta|
+RF03 - Consultar Usuários||Alta|
+RF04 - Alterar Usuários||Alta|
+RF05 - Cadastrar Disciplinas|O sistema deve permitir o cadastro de disciplinas de graduação|Alta|
+RF06 - Excluir Disciplinas||Alta|
+RF07 - Consultar Disciplinas||Alta|
+RF08 - Alterar Disciplinas||Alta|
+RF09 - Cadastrar Turmas|O sistema deve permitir o cadastro de turmas de uma disciplina|Alta|RF03
+RF10 - Consultar Turmas||Alta|
+RF11 - Deletar Turmas||Alta|
+RF12 - Alterar Turmas||Alta|
+RF13 - Inserir o usuário em turmas de uma disciplina||Alta|
+RF14 - Retirar o usuário das turmas cadastradas||Alta|
+RF15 - Planejar Grade Horária do usuário|O sistema deve permitir que o aluno planeje sua grade horária do semestre|Alta|RF01, RF03, RF04
+RF16 - Compartilhar Grade Horária do usuário|O sistema deve permitir que o aluno compartilhe com outros usuários a sua grade horária|Baixa|RF01, RF04
+RF17 - Planejar Fluxo|O sistema deve permitir que o aluno planeje o as disciplinas que pretende se matricular semestre a semestre|Alta|RF01, RF03
+RF18 - Compartilhar Fluxo|O sistema deve permitir que o aluno compartilhe com outros usuários|Baixa|RF01, RF06
+RF19 - Estimar IRA|O sistema deve permitir que o aluno faça o cálculo de seu índice de rendimento acadêmico|Media|RF01, RF03
+
 #### 7. Requisitos Não Funcionais do Sistema
+**Vide especificadões suplementares.**
+
 
 #### 8. Referências Bibliográficas
