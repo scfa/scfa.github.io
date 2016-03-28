@@ -8,6 +8,8 @@
 
 >>[Especificação Suplementar](https://github.com/vitornere/vouformar/wiki/Especifica%C3%A7%C3%A3o-Suplementar)
 
+>>[Glossário](https://github.com/vitornere/vouformar/wiki/Gloss%C3%A1rio)
+
 ### Equipe do projeto:
 
 Membro|Usuário no git
