@@ -63,7 +63,7 @@ Nome|Descrição|Responsabilidades|Interesse|Decisão
 ##### 3.2 Resumo dos Usuários
 
 Nome|Descrição
-----|-----------------------------------------------
+----|--------------------------------------------------------------------------------
 Alunos|Estudantes de graduação na instituição
 Professores|Educadores que ministram as disciplinas de graduação
 Administradores do Sistema|Responsáveis por manter as informações no sistema
@@ -124,7 +124,7 @@ RF18 - Compartilhar Fluxo|O sistema deve permitir que o aluno compartilhe com ou
 RF19 - Estimar IRA|O sistema deve permitir que o aluno faça o cálculo de seu índice de rendimento acadêmico|Media|RF01, RF03
 
 #### 7. Requisitos Não Funcionais do Sistema
-**Vide especificadões suplementares.**
+Vide especificadões suplementares.
 
 
 #### 8. Referências Bibliográficas
