@@ -1,6 +1,6 @@
 # #PartiuFormar
 
-##### #PartiuFormar - Artefatos do Projeto
+#### #PartiuFormar - Artefatos do Projeto
 
 >>[Documento de Visão](https://github.com/vitornere/vouformar/wiki/Documento-de-Vis%C3%A3o)
 
