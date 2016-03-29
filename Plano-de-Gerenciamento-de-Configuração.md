@@ -26,12 +26,14 @@ Devido a imensa gama de funcionalidades foi decido a utilização da ferramenta 
 
 #### 3.                 Repositório 
 ##### 3.1               Diretórios
-Será mantido duas pastas principais do projeto, a pasta relatório que conterá os relatórios referentes as releases 1 e 2, e a pasta vouformar que conterá o código desenvolvido.      
+Será mantido duas pastas principais do projeto, a pasta relatório que conterá os relatórios referentes as releases 1 e 2, e a pasta vouformar que conterá o código desenvolvido.  
+    
 ##### 3.2               Utilização de branches       
 No projeto será mantida durante todo o projeto duas branches, a master a qual armazenará o código estável e revisado, além da branch devel, que armazenara o código a ser desenvolvido, porém sem a devida validação do mesmo. O código só será disponibilizado na master após a aprovação do mesmo pelo responsável pela gerencia do código.
+
 O projeto utilizara o sistemas de issues da plataforma GitHub, além do Kambam também disponível no mesmo, deste modo serão criadas issues para orientar o grupo no desenvolvimento do projeto, a issue deve ter o nome claro referente a sua funcionalidade correspondente, a qual após a conclusão deve ser revisada e acoplada se necessário a branch devel.. 
 
 ##### 3.2.              Nomenclatura.
-* Os commits serão escritos em português, devendo ser claros em relação ao que foi alterado : 
-* As Branchs, issues, além de todo o código serão escritas em português;
+* Os commits serão escritos em português, devendo ser claros em relação ao que foi alterado. 
+* As Branchs, issues, além de todo o código serão escritas em português.
 
