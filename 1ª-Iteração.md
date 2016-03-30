@@ -1,6 +1,6 @@
 ### 1ª Iteração
 
-####Gerentes da iteração: [Hugo Martins]https://github.com/hugomartins013) e [Vitor Nere(https://github.com/Vitornere).
+####Gerentes da iteração: [Hugo Martins](https://github.com/hugomartins013) e [Vitor Nere](https://github.com/Vitornere).
 
 
 ###Data de início: 21/03/2016
