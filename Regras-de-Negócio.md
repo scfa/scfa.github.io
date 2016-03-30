@@ -63,33 +63,36 @@ ID| Descrição
 -----|----------------------------------------------------------------
 RN06|Só poderá ser cadastrada por um administrador do sistema com código único.
 
-RN07 - Campos a serem preenchidos no cadastro
-
+RN07 - Campos a serem preenchidos no cadastro de uma disciplina.
 Campo|Formato|Obrigatoriedade
 -----|-------|-----
-Nome do Aluno|TEXT|SIM
-Sobrenome|TEXT|NÃO
-Matricula|nn/nnnnnnnnn|SIM
-Semestre atual|XXXXX|NÃO
-Ano de ingrsso|nnnn|SIM
-Email|x at x dot com|SIM
-Curso|Combobox de cursos|SIM
-Senha|RN 02|SIM
+Denominação|TEXT|SIM
+Ementa|TEXT|SIM
+Código|xxxxxxx|SIM
+Créditos|xxxxxxx|SIM
+Departamento|comboboox de departamento|SIM
+Turma|TEXT|SIM
+Total de Vagas|xxx|SIM
+Turno|TEXT|SIM
+Horário/Local|TEXT|SIM
+Professor|Combobox de Professor|SIM
+Pré-Requisitos|TEXT|NÃO
+Obs|TEXT|NÃO
 
 
 ##### Fluxo
 ID| Descrição
 -----|----------------------------------------------------------------
-RN05|Um fluxo padrão é gerado a partir da escolha do curso pelo aluno.
-RN06|O aluno poderá editar seu fluxo padrão ou criar novos fluxos, podendo decidir qual será seu fluxo padrão.
+RN08|Um fluxo padrão é gerado a partir da escolha do curso pelo aluno.
+RN09|O aluno poderá editar seu fluxo padrão ou criar novos fluxos, podendo decidir qual será seu fluxo padrão.
 
 ##### Grade
 ID| Descrição
 -----|----------------------------------------------------------------
-RN07|Uma grade padrão é gerada a partir do planejamento de fluxo e o semestre cursado pelo aluno.
-RN08|É possível alterar a grade e o seu estado a qualquer momento.
+RN010|Uma grade padrão é gerada a partir do planejamento de fluxo e o semestre cursado pelo aluno.
+RN011|É possível alterar a grade e o seu estado a qualquer momento.
 
 ##### IRA
 ID| Descrição
 -----|----------------------------------------------------------------
-RN09|O cálculo do IRA (Índice de Rendimento Acadêmico) é baseado na fórmula retirada do guia do calouro e pode ser alterada semestralmente, abaixo encontra-se como é realizado o cálculo: ![](http://i.imgur.com/DUna2dt.jpg)
+RN012|O cálculo do IRA (Índice de Rendimento Acadêmico) é baseado na fórmula retirada do guia do calouro e pode ser alterada semestralmente, abaixo encontra-se como é realizado o cálculo: ![](http://i.imgur.com/DUna2dt.jpg)
