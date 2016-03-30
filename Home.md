@@ -16,6 +16,8 @@
 
 >>[Modelo de Domínio](https://github.com/vitornere/partiuformar/wiki/Modelo-de-Dom%C3%ADnio)
 
+>>[Diagrama de Classes](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Classes)
+
 ### Equipe do projeto:
 
 Membro|Usuário no git
