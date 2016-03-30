@@ -22,6 +22,8 @@
 
 >>[Diagrama de Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Casos-de-Uso)
 
+>>[Diagrama de Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Diagramas-de-Sequ%C3%AAncia)
+
 ### Equipe do projeto:
 
 Membro|Usuário no git
