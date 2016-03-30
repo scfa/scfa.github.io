@@ -24,6 +24,8 @@
 
 >>[Diagrama de Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Casos-de-Uso)
 
+>>[Diagramas de Sequência de Sistema](https://github.com/vitornere/partiuformar/wiki/Diagramas-de-Sequ%C3%AAncia-de-Sistema)
+
 
 ### Releases
 
