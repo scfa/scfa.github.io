@@ -39,11 +39,43 @@ ID| Descrição
 RN01|O usuário durante a realização do cadastro no sistema, deverá informar uma matrícula válida pela UnB a qual deverá ser única.
 RN02|A senha do usuário deve ser no mínimo de 8 caracteres, possuindo letras e números, podendo conter caracteres especiais. 
 RN03| No formulário do cadastro, deverá conter dois campos para a validação da senha, sendo obrigatório o preenchimento.
+<strong>RN04</strong>| Deve obrigatoriamente conter um campo (Obrigatório) preenchidos para executar a consulta.
+
+RN05 - Campos a serem preenchidos no cadastro
+
+Campo|Formato|Obrigatoriedade
+-----|-------|-----
+Nome do Aluno|TEXT|SIM
+Sobrenome|TEXT|NÃO
+Matricula|nn/nnnnnnnnn|SIM
+Semestre atual|XXXXX|NÃO
+Ano de ingrsso|nnnn|SIM
+Email|x at x dot com|SIM
+Curso|Combobox de cursos|SIM
+Senha|RN 02|SIM
+
+
+
+
 
 ##### Disciplinas
 ID| Descrição
 -----|----------------------------------------------------------------
-RN04|Só poderá ser cadastrada por um administrador do sistema com código único.
+RN06|Só poderá ser cadastrada por um administrador do sistema com código único.
+
+RN07 - Campos a serem preenchidos no cadastro
+
+Campo|Formato|Obrigatoriedade
+-----|-------|-----
+Nome do Aluno|TEXT|SIM
+Sobrenome|TEXT|NÃO
+Matricula|nn/nnnnnnnnn|SIM
+Semestre atual|XXXXX|NÃO
+Ano de ingrsso|nnnn|SIM
+Email|x at x dot com|SIM
+Curso|Combobox de cursos|SIM
+Senha|RN 02|SIM
+
 
 ##### Fluxo
 ID| Descrição
