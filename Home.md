@@ -18,6 +18,8 @@
 
 >>[Diagrama de Classes](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Classes)
 
+>>[Diagrama de Atores](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Atores)
+
 ### Equipe do projeto:
 
 Membro|Usuário no git
