@@ -64,6 +64,7 @@ ID| Descrição
 RN06|Só poderá ser cadastrada por um administrador do sistema com código único.
 
 RN07 - Campos a serem preenchidos no cadastro de uma disciplina.
+
 Campo|Formato|Obrigatoriedade
 -----|-------|-----
 Denominação|TEXT|SIM
