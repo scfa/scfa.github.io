@@ -24,11 +24,6 @@
 
 >>[Diagrama de Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Casos-de-Uso)
 
->>[Diagrama de Casos de Sequência](https://github.com/vitornere/partiuformar/wiki/Diagramas-de-Sequ%C3%AAncia)
-
->>[Especificação dos Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-dos-Casos-de-Uso)
-
->>[Especificação dos Casos de Teste](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-dos-Casos-de-Teste)
 
 ### Releases
 
