@@ -14,6 +14,8 @@
 
 >>[Glossário](https://github.com/vitornere/vouformar/wiki/Gloss%C3%A1rio)
 
+>>[Modelo de Domínio](https://github.com/vitornere/partiuformar/wiki/Modelo-de-Dom%C3%ADnio)
+
 ### Equipe do projeto:
 
 Membro|Usuário no git
