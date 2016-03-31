@@ -11,6 +11,7 @@ Data|Versão|Descrição|Autor
 22/03/2016|1.1|Preenchimento dos Itens 1.2 Escopo, 1.3 Visão Geral, 2.1 Descrição do Problema, 2.2 Setença de Posição do Sistema e 3.1 Resumo dos Envolvidos| Vitor Nere
 23/03/2016|1.2|Formatação do documento e preenchimento dos ítens 3.2, 3.3, 5.1, 6 e 6.1.| Hugo Martins
 24/03/2016|1.3|Edição nos itens 6.1 ; 2.1 ;  3.1 ; 5.2 ; 5.3| Jônnatas Lennon
+31/03/2016|1.4|Edição nos itens 2.2, 3.1| Eduardo Brasil
 
 #### 1. Introdução
 Este documento tem como intenção, analisar e definir os recursos necessários para realizar com sucesso o desenvolvimento do software **#PartiuFormar**. Para isso, serão necessários a elaboração de alguns artefatos como descrição de caso de uso, diagrama de sequencia e planejamentos das iterações que serão apresentados ao longo deste documento e  que são necessários para satisfazer de forma completa os usuários na utilização deste software.
@@ -42,8 +43,8 @@ uma boa solução seria|Uma plataforma que auxilie o aluno no planejamento curri
 
 Para|Alunos de graduação
 -----|------------------------------
-Que|Necessita de um acompanhamento sistematizado de seus alunos, cursos, turmas e pagamentos.
-O| SIMCTA
+Que|Necessitam acompanhar e monitorar suas grades horarias, cursos e turmas.
+O| **#PartiuFormar** auxilia os Alunos
 Que|Desejam maior orientação em relação ao rumo da graduação
 O **#PartiuFormar**|É um _software_ que possibilita planejar seu currículo e acompanhar a situação, estimando diferentes tipos de estratégia e rendimento acadêmico
 Que|Auxilia em uma graduação mais fluída e madura
@@ -56,7 +57,7 @@ Nosso sistema|Será uma base de planejamentos, garantindo maior maturidade para 
 
 Nome|Descrição|Responsabilidades|Interesse|Decisão
 ----|---------|-----------------|---------|-------------------------------
-**Instituições de Ensino Superior**|Instituição na qual o aluno estar matriculado||Médio|Baixo
+**Instituições de Ensino Superior**|Instituição na qual o aluno estar matriculado|Prover oferta de matérias semestralmente |Médio|Baixo
 **Desenvolvedores e Gerentes**|Profissionais da área que implementarão e integrarão o projeto descrito|Irão produzir o sistema visionado e projetado nos documentos posteriores|Alto|Alto
 **Estudantes de Graduação**|Estudante da universidade de Brasilia, os quais utilizarão do sistema para a gestão da sua grade horaria||Alto|Baixo
 
