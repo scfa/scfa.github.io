@@ -4,7 +4,7 @@
 
 >>[Documento de Visão](https://github.com/vitornere/vouformar/wiki/Documento-de-Vis%C3%A3o)
 
->>[Documento de Arquitetura](https://github.com/vitornere/partiuformar/wiki/Documento-de-Arquitetura)
+>>[Documento de Arquitetura de Software](https://github.com/vitornere/partiuformar/wiki/Documento-de-Arquitetura-de-Software)
 
 >>[Plano de Desenvolvimento de Software](https://github.com/vitornere/partiuformar/wiki/Plano-de-Desenvolvimento-de-Software)
 
