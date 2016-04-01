@@ -96,4 +96,26 @@ RN011|É possível alterar a grade e o seu estado a qualquer momento.
 ##### IRA
 ID| Descrição
 -----|----------------------------------------------------------------
-RN012|O cálculo do IRA (Índice de Rendimento Acadêmico) é baseado na fórmula retirada do guia do calouro e pode ser alterada semestralmente, abaixo encontra-se como é realizado o cálculo: ![](http://i.imgur.com/DUna2dt.jpg)
+RN012|O cálculo do IRA (Índice de Rendimento Acadêmico) é baseado na fórmula retirada do guia do calouro e pode ser alterada semestralmente, abaixo encontra-se como é realizado o cálculo: 
+
+ **IRA** = { [ 1- (0,6 x DTb + 0,4 x DTp) **/** DC ] **X** [ (Σ Pi x CRi x Pei) **/** (Σ CRi x Pei) ] }
+
+**DTb** = número de disciplinas obrigatórias trancadas
+
+**DTp** = número de disciplinas optativas trancadas
+
+**DC** = número de disciplinas matriculadas
+ (incluindo as trancadas)
+
+**Pi** = peso da menção
+
+ (**SS=5, MS=4, MM=3, MI=2, II=1, SR=0**)
+
+**Pei** = período em que uma dada disciplina foi cursada,
+obedecendo a seguinte limitação:
+
+ min | 6, período |
+
+**CRi** = número de créditos de uma dada disciplina
+Quanto maior for o IRA, maior será a prioridade de
+matrícula." (UnB,2016) 
