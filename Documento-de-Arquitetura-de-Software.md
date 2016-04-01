@@ -21,13 +21,15 @@ Este documento trata da implementação arquitetura do #PartiuFormar com base no
 
 O sistema **#PartiuFormar** é uma aplicação web construída de acordo com o modelo de arquitetura **MVC** (model-view-controller).
 
-1. A camada de _Model_ é parte do sistema que lida com os dados e as regras de negócio.
+1. A camada de _Model_ representa os modelos de dados, os quais devem estar descritos pelas regras de negócio da aplicação, ou seja esta parte do sistema lida com os dados e as regras de negócio.
 
 2. A camada de _View_ corresponde a parte gráfica, onde é apresentado para o usuário as informações de forma clara e compreensível, fazendo o uso de elementos de design para transmitir as informações de forma visualmente claras para o usuário.
 
-3. A camada _Controller_ se trata da parte que processa cada ação do sistema, como por exemplo, requisições do usuário. Didaticamente, pode ser entendida como uma ponte de ligação entre a Model e a View.
+3. A camada _Controller_ se trata da parte que processa cada ação do sistema, como por exemplo, requisições do usuário. Didaticamente, pode ser entendida como uma ponte de ligação entre a Model e a View, ou seja a _Controller_ interpreta os eventos que acontecem na camada View, e opera os dados que estão na _Model_, estabelecendo a comunicação com a _DAO_ a qual fica com a responsabilidade de armazenar estes dados no banco de dados da aplicação.
 
-4. A camada _DAO_ (Data Access Object) é responsável, por manter a persistência no banco de dados.
+4. A camada _DAO_ (Data Access Object) é responsável, por manter a persistência no banco de dados, dos dados descritos pela Model.
+
+5. Router esta camada é nativa do Rubi on Rails, a qual reconhece URLs e direciona a uma _Controller_ especifica.
 
 ### 2. Representação da Arquitetura
 ![Arquitetura](http://i.imgur.com/BxSbwTs.png)
