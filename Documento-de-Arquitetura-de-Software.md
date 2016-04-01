@@ -37,14 +37,30 @@ A arquitetura definida
 
 #### 3.1 Restrições 
 
-O sistema deverá ser desenvolvido usando Ruby on Rails, que é uma framework escrito na linguagem Ruby e baseado no padrão de arquitetura MVC (Model-View-Controller), como já citado neste documento
+O sistema deverá ser desenvolvido usando Ruby on Rails, que é uma framework escrito na linguagem Ruby e baseado no padrão de arquitetura MVC (Model-View-Controller), como já citado neste documento.
+
+Para a persistência de dados será utilizado o SQLite3, devido a sua praticidade e estabilidade.
 
 ### 4. Visão de Casos de Uso
-#### 4.1 Realizações de Casos de Uso     
+
+O caso de uso fundamental à arquitetura é:
+
+![UC_Arquitetura](http://i.imgur.com/1onQ8e6.jpg)
+
+#### 4.1 Realizações de Casos de Uso
+
+Os [diagramas de sequência](https://github.com/vitornere/partiuformar/wiki/Diagramas-de-Sequ%C3%AAncia-de-Sistema) dos casos de uso, fornecem a visualização da comunicação entre as camadas.
  
 ### 5. Visão Lógica
-#### 5.1 Visão Geral     
+
+O usuário interage com o sistema através da view, realizando alguma operação no sistema, a view solicita a controller a ação realizada, A controller processa as informações por meio da  comunicação com a model e a Dao, que por sua vez se comunica com o banco de dados, que por conseguinte repassa o resultado da operação solicitada para a view.
+
+#### 5.1 Visão Geral    
+
+A camada de View apenas deve conter classes responsáveis pela parte front-end parte da interação visual com o usuário. As classes da View se comunicam apenas com as da Controller, através de requisições.
+ 
 #### 5.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura     
+
 ### 6. Visão de Processos
 
 ### 7. Visão de Implantação
@@ -57,4 +73,4 @@ O sistema deverá ser desenvolvido usando Ruby on Rails, que é uma framework es
 
 10. Tamanho e Desempenho               
 
-11. Qualidade               
+11. Qualidade   
