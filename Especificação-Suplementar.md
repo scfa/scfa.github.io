@@ -42,7 +42,7 @@ Inicialmente este artefato apresenta, uma introdução sobre o projeto, para o c
 * **RNF 05** - O Usuário comum conseguirá realizar uma das operações básicas de cadastro, consulta, ou exclusão em pelo menos 2 minutos, ao primeiro uso.
 
 ##### 3.2 Operacionalidade
-* **RNF 06** - Deve-se evitar abrir janelas _pop-ups_ no **#PartiuFormar**.
+**RNF 06** - Deve-se evitar abrir janelas _pop-ups_ no **#PartiuFormar**.
 
 ##### 3.3 Inteligibilidade
 * **RNF 07** - As paginas do **#PartiuFormar** devem ser claras e simples.
