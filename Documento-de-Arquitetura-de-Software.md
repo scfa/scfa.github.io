@@ -34,6 +34,15 @@ O sistema **#PartiuFormar** é uma aplicação web construída de acordo com o m
 ### 2. Representação da Arquitetura
 ![Arquitetura](http://i.imgur.com/BxSbwTs.png)
 
+Na representação acima tense o funcionamento da arquitetura MVC aplicada no rails, a qual segue os seguintes passos, usuário digita _http://exemplo.com/bem-vindo .
+
+1. O _Browser_ faz uma solicitação para o _URL_ /bem-vindo, o pedido atinge o <em><strong>Rails router</strong></em>.
+2. O _Router_ mapeia o URL para uma _Controller_, para a manipulação da solicitação.
+3. A _Controller_ recebe o pedido, e pede a _Model_ buscar os dados no banco de dados na _DAO_.
+4. O _Model_ retorna dados para a ação da _Controller_.
+5. A _Controller_, passa os dados para a _View_.
+6. A _View_ renderiza e retorna a página como HTML, de volta para o _Browser_.
+
 ### 3. Restrições de Arquitetura e Metas 
 A arquitetura definida 
 
