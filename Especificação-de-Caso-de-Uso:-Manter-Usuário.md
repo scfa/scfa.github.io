@@ -26,17 +26,17 @@ O Usuário deve estar cadastrado no sistema como Usuário.
 
 1. O sistema apresenta as opções
 * Consultar usuários. [FB](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso:-Manter-Usu%C3%A1rio#fluxo-b%C3%81sico-fb)
-* Cadastrar usuários. [FA01]
+* Cadastrar usuários. [FA01](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso:-Manter-Usu%C3%A1rio#51-fa01--cadastrar-aluno)
 2. O Usuário escolhe a opção de consultar usuários. 
 3. O sistema solicita ao Usuário os dados do aluno para consulta. [RN4]
 4. O Usuário preenche os campos para busca.
-5. O sistema valida e apresenta os resultados da consulta. [FE01]
+5. O sistema valida e apresenta os resultados da consulta. [FE01](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso:-Manter-Usu%C3%A1rio#61-fe01---o-sistema-n%C3%A3o-encontra-uma-aluno)
 6. O Usuário seleciona o aluno que deseja.
 7. O sistema apresenta os dados do aluno.
 8. O sistema apresenta as opções para:
 * Concluir a consulta.
-* Deletar dados. [FA02]
-* Alterar dados.[FA03]
+* Deletar dados. [FA02](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso:-Manter-Usu%C3%A1rio#52-fa02--excluir-dados)
+* Alterar dados.[FA03](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso:-Manter-Usu%C3%A1rio#53-fa03--alterar-dador)
 9. O caso de uso é encerrado.	
 
 ## FLUXOS ALTERNATIVOS
