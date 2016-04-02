@@ -25,10 +25,10 @@ O Usuário deve estar cadastrado no sistema como Usuário.
 ## FLUXO BÁSICO (FB) 
 
 1. O sistema apresenta as opções
-* Consultar usuários. [FB]
+* Consultar usuários. [FB](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso:-Manter-Usu%C3%A1rio#fluxo-b%C3%81sico-fb)
 * Cadastrar usuários. [FA01]
 2. O Usuário escolhe a opção de consultar usuários. 
-3. O sistema solicita ao Usuário os dados do aluno para consulta. [RN05]
+3. O sistema solicita ao Usuário os dados do aluno para consulta. [RN4]
 4. O Usuário preenche os campos para busca.
 5. O sistema valida e apresenta os resultados da consulta. [FE01]
 6. O Usuário seleciona o aluno que deseja.
@@ -40,37 +40,37 @@ O Usuário deve estar cadastrado no sistema como Usuário.
 9. O caso de uso é encerrado.	
 
 ## FLUXOS ALTERNATIVOS
-5.1 FA01 – Cadastrar aluno
+### 5.1 FA01 – Cadastrar aluno
 
-1. O sistema solicita ao Usuário o preenchimento dos campos para o cadastro. [RN05]
+1. O sistema solicita ao Usuário o preenchimento dos campos para o cadastro. [RN-Usuário](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#usu%C3%A1rios)
 2. O Usuário preenche os campos e solicita a confirmação do cadastro.
-3. O sistema realiza a validação dos dados preenchidos. [RN05] [FE02] [FE03]
+3. O sistema realiza a validação dos dados preenchidos. [RN-Usuário](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#usu%C3%A1rios) [FE02] [FE03]
 4. sistema realiza o cadastro do aluno.
 5. O caso de uso é encerrado.
 
-5.2 FA02 – Excluir dados
+### 5.2 FA02 – Excluir dados
 
 1. O Usuário escolhe a opção para excluir uma aluno.
 2. O sistema apresenta uma mensagem de confirmação de exclusão. [ME01]
 3. O Usuário confirma a exclusão
 4. O caso de uso retorna ao passo 8 do FB.
 
-5.3 FA03 – Alterar dador
+### 5.3 FA03 – Alterar dador
 
 1. O Usuário escolhe a opção para alterar uma aluno.
 2. O sistema exibe os dados atuais dos alunos.
-3. O Usuário altera o(s) campo(s) desejado(s) e solicita a confirmação da alteração. [RN05] 
-4. O sistema realiza a validação dos dados preenchidos. [RN05] [FE02] [FE03]
+3. O Usuário altera o(s) campo(s) desejado(s) e solicita a confirmação da alteração. [RN-Usuário](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#usu%C3%A1rios)
+4. O sistema realiza a validação dos dados preenchidos. [RN-Usuário](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#usu%C3%A1rios) [FE02] [FE03]
 5. O caso de uso retorna ao passo 8 do FB.
 
 ## FLUXOS DE EXCEÇÃO
 
-6.1 FE01 - O sistema não encontra uma aluno
+### 6.1 FE01 - O sistema não encontra uma aluno
 
 1. O sistema apresenta uma mensagem para o usuário.  [ME02]
 2. O caso de uso retorna ao passo 2 do FB.
 
-6.2 FE02 - Campos para cadastro preenchidos incorretamente
+### 6.2 FE02 - Campos para cadastro preenchidos incorretamente
 
 1. Este fluxo pode ser chamado nos passos:
 * Passo 3 do FA01
@@ -79,7 +79,7 @@ O Usuário deve estar cadastrado no sistema como Usuário.
 3. O sistema apresenta uma mensagem de erro. [ME03]
 4. O caso de uso retorna ao fluxo de origem.
 
-6.3 FE03 - Campos obrigatório em branco no cadastro.
+### 6.3 FE03 - Campos obrigatório em branco no cadastro.
 
 1. Este fluxo pode ser chamado nos passos:
 * Passo 3 do FA01.
