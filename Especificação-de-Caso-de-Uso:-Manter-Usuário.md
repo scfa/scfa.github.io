@@ -98,4 +98,4 @@ O Usuário deve estar cadastrado no sistema como Usuário.
 * ME04 - “Todos os campos obrigatórios devem ser preenchidos”
 
 ## REGRAS DE NEGÓCIO.
- [RN05](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio)
+ [RN05](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#usu%C3%A1rios)
