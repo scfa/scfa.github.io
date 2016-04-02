@@ -66,6 +66,7 @@ O Usuário deve estar cadastrado no sistema como Usuário.
 ## FLUXOS DE EXCEÇÃO
 
 6.1 FE01 - O sistema não encontra uma aluno
+
 1. O sistema apresenta uma mensagem para o usuário.  [ME02]
 2. O caso de uso retorna ao passo 2 do FB.
 
