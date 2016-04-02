@@ -28,7 +28,7 @@ O Usuário deve estar cadastrado no sistema como Usuário.
 * Consultar usuários. [FB]
 * Cadastrar usuários. [FA01]
 2. O Usuário escolhe a opção de consultar usuários. 
-3. O sistema solicita ao Usuário os dados do aluno para consulta. [RN02]
+3. O sistema solicita ao Usuário os dados do aluno para consulta. [RN05]
 4. O Usuário preenche os campos para busca.
 5. O sistema valida e apresenta os resultados da consulta. [FE01]
 6. O Usuário seleciona o aluno que deseja.
@@ -42,9 +42,9 @@ O Usuário deve estar cadastrado no sistema como Usuário.
 ## FLUXOS ALTERNATIVOS
 5.1 FA01 – Cadastrar aluno
 
-1. O sistema solicita ao Usuário o preenchimento dos campos para o cadastro. [RN01]
+1. O sistema solicita ao Usuário o preenchimento dos campos para o cadastro. [RN05]
 2. O Usuário preenche os campos e solicita a confirmação do cadastro.
-3. O sistema realiza a validação dos dados preenchidos. [RN01] [FE02] [FE03]
+3. O sistema realiza a validação dos dados preenchidos. [RN05] [FE02] [FE03]
 4. sistema realiza o cadastro do aluno.
 5. O caso de uso é encerrado.
 
@@ -59,8 +59,8 @@ O Usuário deve estar cadastrado no sistema como Usuário.
 
 1. O Usuário escolhe a opção para alterar uma aluno.
 2. O sistema exibe os dados atuais dos alunos.
-3. O Usuário altera o(s) campo(s) desejado(s) e solicita a confirmação da alteração. [RN01] 
-4. O sistema realiza a validação dos dados preenchidos. [RN01] [FE02] [FE03]
+3. O Usuário altera o(s) campo(s) desejado(s) e solicita a confirmação da alteração. [RN05] 
+4. O sistema realiza a validação dos dados preenchidos. [RN05] [FE02] [FE03]
 5. O caso de uso retorna ao passo 8 do FB.
 
 ## FLUXOS DE EXCEÇÃO
@@ -98,4 +98,4 @@ O Usuário deve estar cadastrado no sistema como Usuário.
 * ME04 - “Todos os campos obrigatórios devem ser preenchidos”
 
 ## REGRAS DE NEGÓCIO.
- 
+ [RN05](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio)
