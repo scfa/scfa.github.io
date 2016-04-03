@@ -1,4 +1,4 @@
-# **Diagrama de Casos de Uso**
+# **Diagrama de Banco de Dados**
 
 ##  ***#PartiuFormar***
 
