@@ -118,3 +118,9 @@ Vide especificadões suplementares.
 
 
 #### 8. Referências Bibliográficas
+
+Matrícula Web da Universidade de Brasília:
+Disponível em: <https://www.matriculaweb.unb.br> Acesso em: 22 de março de 2016.
+
+Documento de Visão do RUP:
+Disponível em: <http://www.wthreex.com/rup/process/artifact/ar_vsion.htm> Acesso em: 21 de março de 2016.
