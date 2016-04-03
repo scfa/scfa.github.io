@@ -89,6 +89,10 @@ A camada de View apenas deve conter classes responsáveis pela parte front-end p
     
 ### 9. Visão de Dados 
 
+### 9.1 Modelo lógico
+Diagrama de esquema do banco de dados, feito na ferramenta MySQL Workbench. 
+![Lógico](http://i.imgur.com/wYyHD9Y.png)
+
 10. Tamanho e Desempenho               
 
 11. Qualidade   
