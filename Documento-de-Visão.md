@@ -24,7 +24,7 @@ O **#PartiuFormar** permite que o aluno possa, desde o início de sua graduaçã
 ##### 1.3 Visão Geral
 Faremos uso deste nosso documento como uma forma de organizar informações necessárias para futuras atividades do projeto em desenvolvimento. Informações a cerca do contexto do projeto, funcionalidades, e características serão organizados e estarão disponíveis neste documento afim de poupar o atraso no processo de desenvolvimento do projeto.
 ##### 1.4 Acrônimos
-**1. IRA** - Índice de rendimento acadêmico.
+**1. IRA** - Índice de Rendimento Acadêmico.
 
 **2. UnB** - Universidade de Brasília.
 
@@ -35,9 +35,9 @@ Surgido por uma necessidade dos estudantes da UnB de organizar uma grade curricu
 
 O problema de|Desorientação, principalmente no início da graduação, de como se organizar e quais matérias cursar a cada semestre, visando uma graduação fluída.
 -------------|-------------------------------------
-afeta|Alunos de graduação.
-cujo impacto é|Possibilidade de atros no fluxo, pelo mal planejamento curricular, além de um aproveitamento ineficiente da grade curricular, ocasionando ao aluno uma confusão sobre quais matérias cursar|
-uma boa solução seria|Uma plataforma que auxilie o aluno no planejamento curricular e tenha todo material para que o aluno se guiar conforme sua instituição
+Afeta|Alunos de graduação.
+Cujo impacto é|Possibilidade de atros no fluxo, pelo mal planejamento curricular, além de um aproveitamento ineficiente da grade curricular, ocasionando ao aluno uma confusão sobre quais matérias cursar|
+Uma solução seria|Uma plataforma que auxilie o aluno no planejamento curricular e tenha todo material para que o aluno se guiar conforme sua instituição
 
 ##### 2.2 Sentença de Posição do Sistema
 
@@ -104,25 +104,14 @@ Esta seção tem a função de informar de forma resumida todas as característi
 
 Requisito|Descrição|Prioridade|Dependência
 ---------|---------|----------|---------------------------------------------
-RF01 - Cadastrar Usuários|O sistema deve permitir o cadastro de usuários (Alunos, Professores e Administradores do sistema)|Alta|
-RF02 - Deletar Usuários||Alta|
-RF03 - Consultar Usuários||Alta|
-RF04 - Alterar Usuários||Alta|
-RF05 - Cadastrar Disciplinas|O sistema deve permitir o cadastro de disciplinas de graduação|Alta|
-RF06 - Excluir Disciplinas||Alta|
-RF07 - Consultar Disciplinas||Alta|
-RF08 - Alterar Disciplinas||Alta|
-RF09 - Cadastrar Turmas|O sistema deve permitir o cadastro de turmas de uma disciplina|Alta|RF03
-RF10 - Consultar Turmas||Alta|
-RF11 - Deletar Turmas||Alta|
-RF12 - Alterar Turmas||Alta|
-RF13 - Inserir o usuário em turmas de uma disciplina||Alta|
-RF14 - Retirar o usuário das turmas cadastradas||Alta|
-RF15 - Planejar Grade Horária do usuário|O sistema deve permitir que o aluno planeje sua grade horária do semestre|Alta|RF01, RF03, RF04
-RF16 - Compartilhar Grade Horária do usuário|O sistema deve permitir que o aluno compartilhe com outros usuários a sua grade horária|Baixa|RF01, RF04
-RF17 - Planejar Fluxo|O sistema deve permitir que o aluno planeje o as disciplinas que pretende se matricular semestre a semestre|Alta|RF01, RF03
-RF18 - Compartilhar Fluxo|O sistema deve permitir que o aluno compartilhe com outros usuários|Baixa|RF01, RF06
-RF19 - Estimar IRA|O sistema deve permitir que o aluno faça o cálculo de seu índice de rendimento acadêmico|Media|RF01, RF03
+RF01 - Registrar Usuários|O sistema deve permitir o registro de usuários (Alunos, Professores e Administradores do sistema)|Alta|
+RF02 - Registrar Disciplinas|O sistema deve permitir o registro de disciplinas de graduação|Alta|
+RF03 - Registrar Turmas|O sistema deve permitir o registro de turmas de uma disciplina|Alta|RF02
+RF04 - Planejar Grade Horária do usuário|O sistema deve permitir que o aluno planeje sua grade horária do semestre|Alta|RF01, RF02, RF03
+RF05 - Compartilhar Grade Horária do usuário|O sistema deve permitir que o aluno compartilhe com outros usuários a sua grade horária|Baixa|RF01, RF02, RF03, RF04
+RF06 - Planejar Fluxo|O sistema deve permitir que o aluno planeje o as disciplinas que pretende se matricular semestre a semestre|Alta|RF01, RF02, RF03
+RF07 - Compartilhar Fluxo|O sistema deve permitir que o aluno compartilhe com outros usuários|Baixa|RF01, RF02, RF03, RF06
+RF08 - Estimar IRA|O sistema deve permitir que o aluno faça o cálculo de seu índice de rendimento acadêmico|Media|RF01, RF02
 
 #### 7. Requisitos Não Funcionais do Sistema
 Vide especificadões suplementares.
