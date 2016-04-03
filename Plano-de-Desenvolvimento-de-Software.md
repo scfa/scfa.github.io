@@ -11,17 +11,37 @@ Data|Versão|Descrição|Autor
 
 #### 1.                  Introdução
 
+Este documento apresenta o plano de desenvolvimento de _software_ utilizado para o desenvolvimento do sistema #PartiuFormar.
+
 ##### 1.1               Finalidade
+
+Este documento tem por finalidade definir aspectos em comuns em planos de desenvolvimento de _software_ para organizar o desenvolvimento do software a fim de que todos os envolvidos no projeto tenham conhecimento de como se trabalhar.
 
 ##### 1.2               Escopo
 
+Este plano está dividido em três aspectos:
+
+* Processo de desenvolvimento de software adotado: Processo Unificado Ágil (AUP);
+* Definições gerais;
+* Visão do Sistema.
+
 ##### 1.3               Definições, Acrônimos e Abreviações
+
+
 
 ##### 1.4               Referências
 
+>>[Documento de Visão](https://github.com/vitornere/vouformar/wiki/Documento-de-Vis%C3%A3o)
+
 ##### 1.5               Visão Geral
 
+Este documento está dividido em três itens importantes para um desenvolvimento de _software_:
+* Visão geral do projeto;
+* Organização do projeto;
+* Processo de gerenciamento
+
 #### 2.                  Visão Geral do Projeto
+
 ##### 2.1               Finalidade, Escopo e Objetivos do Projeto
 
 ##### 2.2               Suposições e Restrições
@@ -65,8 +85,9 @@ Release|Características|Data
 **Gerenciamento de Requisitos:**
 
 **Gerenciamento de Riscos:**
+
 Classificação de probabilidade (Alta, Média, Baixa)|Classificação de impacto (Alto, Médio, Baixo)|Impacto e Descrição do Risco|Estratégia de Diminuição e/ou Plano de Contingência|Ação a ser tomada
--------------|-----------------|----------------|-----------------|------------------
+----------------|-----------------|----------------|-----------------|------------------
 
 **Gerenciamento de Configuração:**
 
