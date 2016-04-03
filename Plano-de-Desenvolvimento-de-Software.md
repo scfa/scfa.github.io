@@ -76,8 +76,9 @@ Este plano será refinado e incrementado a cada iteração de desenvolvimento do
 ##### 3.1               Estrutura Organizacional
 
 A equipe de trabalho do projeto foi planejada de maneira com que todos da equipe trabalhem de maneira igualitária. Assim foi definido que para planejar e gerenciar o acompanhamento da iteração, a mesma terá uma dupla de gerentes que será mudada a cada iteração de acordo com a esquemática definida pela equipe de acordo com a tabela abaixo:
+
 Iterações Ímpares: |Iterações pares:
------------- | -------------|
+------------ | ------------------
 Hugo Martins e Vitor Nere|Eduardo Brasil e Jonnatas Lennon
 
 ##### 3.2               Papéis e Responsabilidades
