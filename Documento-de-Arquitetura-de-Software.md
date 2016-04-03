@@ -48,7 +48,7 @@ Na representação acima tense o funcionamento da arquitetura MVC aplicada no ra
 5. A _Controller_, passa os dados para a _View_.
 6. A _View_ renderiza e retorna a página como HTML, de volta para o _Browser_.
 
-[Visão geral](http://i.imgur.com/Hp4yBrN.png)
+![Visão geral](http://i.imgur.com/Hp4yBrN.png)
 
 ### 3. Restrições de Arquitetura e Metas 
 A arquitetura definida:
