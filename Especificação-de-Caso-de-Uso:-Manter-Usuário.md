@@ -89,7 +89,7 @@ O Usuário deve estar cadastrado no sistema como Usuário.
 4. O caso de uso retorna ao fluxo de origem.
 
 ## PÓS-CONDIÇÕES
-* Nenhuma ou muitas aluno, tiveram seus registros alterados/incluídos no banco de dados.
+* Nenhum ou muitos alunos, tiveram seus registros alterados/incluídos no banco de dados.
 
 ## MENSAGEM.
 * ME01 - “Deseja confirmar a exclusão?”
