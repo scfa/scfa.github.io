@@ -2,7 +2,7 @@
 
 ##  ***#PartiuFormar***
 
-### **Versão 1.1**
+### **Versão 1.2**
 
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
