@@ -93,7 +93,7 @@ Aqui encontra-se uma representação visual dos pacotes presentes neste projeto:
 
 #### 9.1 Modelo lógico
 Diagrama de esquema do banco de dados, feito na ferramenta MySQL Workbench. 
-![Lógico](http://i.imgur.com/wYyHD9Y.png)
+![Lógico](http://i.imgur.com/TQHaqgl.png)
 
 ### 10. Tamanho e Desempenho               
 
