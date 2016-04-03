@@ -26,7 +26,7 @@ Este documento trata da implementação arquitetura do #PartiuFormar com base no
 
 O sistema **#PartiuFormar** é uma aplicação web construída de acordo com o modelo de arquitetura **MVC** (model-view-controller).
 
-1. A camada de _Model_ representa os modelos de dados, os quais devem estar descritos pelas regras de negócio da aplicação, ou seja esta parte do sistema lida com os dados e as regras de negócio.
+1. A camada de _Model_ representa os modelos de dados, os quais devem estar descritos pelas regras de negócio da aplicação, ou seja a camada modelo armazena os dados, se comunicando com a View e a Controller quando houver alterações alterações nestes estados.
 
 2. A camada de _View_ corresponde a parte gráfica, onde é apresentado para o usuário as informações de forma clara e compreensível, fazendo o uso de elementos de design para transmitir as informações de forma visualmente claras para o usuário.
 
