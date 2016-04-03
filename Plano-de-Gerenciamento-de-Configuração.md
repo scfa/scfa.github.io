@@ -7,6 +7,7 @@
 Data|Versão|Descrição|Autor
 -----|------|---------|-------
 21/03/2016|1.0|Criação do documento|Jônnatas Lennon Lima
+03/04/2016|1.1|Politica de branch|Eduardo Brasil
  
 
 #### 1.                  Introdução
@@ -31,9 +32,21 @@ Será mantido duas pastas principais do projeto, a pasta relatório que conterá
 ##### 3.2               Utilização de branches       
 No projeto será mantida durante todo o projeto duas branches, a master a qual armazenará o código estável e revisado, além da branch devel, que armazenara o código a ser desenvolvido, porém sem a devida validação do mesmo. O código só será disponibilizado na master após a aprovação do mesmo pelo responsável pela gerencia do código.
 
+#### 3.2.1              Politica de branch
+
+![Extraída e adaptada de A successful git branching model.](http://lappis.unb.br/redmine/attachments/download/2447/branchflow.png)
+
+_Master_
+A branch principal que receberá o merge para cada uma das releases.
+
+_Development_
+A branch estável que sempre tenta refletir o estado atual do desenvolvimento. Receberá o merge das branches de cada feature.
+
+_Feature_n_
+As branches que são usadas para desenvolver as novas features.
+
 O projeto utilizara o sistemas de issues da plataforma GitHub, além do Kambam também disponível no mesmo, deste modo serão criadas issues para orientar o grupo no desenvolvimento do projeto, a issue deve ter o nome claro referente a sua funcionalidade correspondente, a qual após a conclusão deve ser revisada e acoplada se necessário a branch devel.. 
 
 ##### 3.2.              Nomenclatura.
 * Os commits serão escritos em português, devendo ser claros em relação ao que foi alterado. 
 * As Branchs, issues, além de todo o código serão escritas em português.
-
