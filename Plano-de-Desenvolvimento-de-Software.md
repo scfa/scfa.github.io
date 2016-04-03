@@ -9,6 +9,7 @@ Data|Versão|Descrição|Autor
 -----|------|---------|-------
 03/04/2016|1.0|Criação do documento|Hugo Martins
 03/04/2016|1.1|Preenchimento dos itens de introdução, finalidade, escopo, referências, visão geral, visão geral do projeto, organização do projeto, e alguns itens do processo de gerenciamento|Hugo Martins
+03/04/2016|1.2|Preenchimento dos demais itens|Hugo Martins
 
 #### 1.                  Introdução
 
