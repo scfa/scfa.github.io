@@ -8,7 +8,7 @@
 
 >>[Plano de Desenvolvimento de Software](https://github.com/vitornere/partiuformar/wiki/Plano-de-Desenvolvimento-de-Software)
 
->>[Plano de Gerência e Configuração](https://github.com/vitornere/partiuformar/wiki/Plano-de-Ger%C3%AAncia-e-Configura%C3%A7%C3%A3o)
+>>[Plano de Gerência e Configuração](https://github.com/vitornere/partiuformar/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o)
 
 >>[Regras de Negócio](https://github.com/vitornere/vouformar/wiki/Regras-de-Neg%C3%B3cio)
 
