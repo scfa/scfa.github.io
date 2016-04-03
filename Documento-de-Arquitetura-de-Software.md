@@ -12,11 +12,16 @@ Data|Versão|Descrição|Autor
 ### 1. Introdução         
 #### 1.1 Finalidade    
 Este artefato detalha a arquitetura utilizada no desenvolvimento do sistema <strong><em>#PartiuFormar</em></strong>. 
+
 #### 1.2 Escopo 
 Este documento trata da implementação arquitetura do #PartiuFormar com base nos diagramas <em>UML</em> acerca dos casos de uso, diagramas de classe, além da visão lógica do sistema com o detalhamento da arquitetura MVC utilizada, no desenvolvimento.
+
 #### 1.3 Definições, Acrônimos e Abreviações     
+
 #### 1.4 Referências     
 [Documento de Arquitetura de Software (RUP)](http://www.wthreex.com/rup/process/artifact/ar_sadoc.htm)
+[Diagrama de Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Casos-de-Uso)
+
 #### 1.5 Visão Geral 
 
 O sistema **#PartiuFormar** é uma aplicação web construída de acordo com o modelo de arquitetura **MVC** (model-view-controller).
