@@ -11,6 +11,8 @@
 
 >> [Regras de negócio](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio)
 
+>> [Especificação de Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-dos-Casos-de-Uso---1%C2%AA-Itera%C3%A7%C3%A3o)
+
 >> [Especificação Suplementar](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-Suplementar)
 
 >> [Documento de Arquitetura](https://github.com/vitornere/partiuformar/wiki/Documento-de-Arquitetura-de-Software)
