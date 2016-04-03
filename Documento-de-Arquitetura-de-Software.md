@@ -79,6 +79,10 @@ A camada de View apenas deve conter classes responsáveis pela parte front-end p
  
 #### 5.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura     
 
+Aqui encontra-se uma representação visual dos pacotes presentes neste projeto:
+
+![](http://i.imgur.com/2cmoh2R.png)
+
 ### 6. Visão de Processos
 
 ### 7. Visão de Implantação
