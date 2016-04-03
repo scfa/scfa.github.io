@@ -49,9 +49,7 @@ Na representação acima tense o funcionamento da arquitetura MVC aplicada no ra
 6. A _View_ renderiza e retorna a página como HTML, de volta para o _Browser_.
 
 ### 3. Restrições de Arquitetura e Metas 
-A arquitetura definida 
-
-#### 3.1 Restrições 
+A arquitetura definida:
 
 O sistema deverá ser desenvolvido usando Ruby on Rails, que é uma framework escrito na linguagem Ruby e baseado no padrão de arquitetura MVC (Model-View-Controller), como já citado neste documento.
 
