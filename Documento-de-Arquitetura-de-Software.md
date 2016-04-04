@@ -2,7 +2,7 @@
 
 ## **Documento de Arquitetura de Software**
 
-### **Versão 1.0**
+### **Versão 1.6**
 
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
@@ -13,6 +13,7 @@ Data|Versão|Descrição|Autor
 03/04/2016|1.3|Tamanho e Desempenho ,Qualidade|Eduardo Brasil
 03/04/2016|1.4|Adições e alterações das seções 5.1, 7.1, 8.1|Jônnatas Lennon
 03/04/2016|1.5|Adição da seção 1.4 e ajustes|Vitor Nere
+03/04/2016|1.6| Revisão do documento|Hugo Martins
 
 ### 1. Introdução         
 #### 1.1 Finalidade    
@@ -23,6 +24,7 @@ Este documento trata da implementação arquitetura do #PartiuFormar com base no
 
 #### 1.3 Referências     
 [Documento de Arquitetura de Software (RUP)](http://www.wthreex.com/rup/process/artifact/ar_sadoc.htm)
+
 [Diagrama de Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Casos-de-Uso)
 
 #### 1.4 Visão Geral 
@@ -40,9 +42,10 @@ Esse documento está dividido nas seguintes seções:
 9. Qualidade
 
 ### 2. Representação da Arquitetura
+
 ![Arquitetura](http://i.imgur.com/BxSbwTs.png)
 
-Na representação acima tense o funcionamento da arquitetura MVC aplicada no rails, a qual segue os seguintes passos, usuário digita _http://exemplo.com/bem-vindo .
+Na representação acima mostra o funcionamento da arquitetura MVC aplicada no _rails_, a qual segue os seguintes passos, usuário digita _http://exemplo.com/bem-vindo .
 
 1. O _Browser_ faz uma solicitação para o _URL_ /bem-vindo, o pedido atinge o <em><strong>Rails router</strong></em>.
 2. O _Router_ mapeia o URL para uma _Controller_, para a manipulação da solicitação.
@@ -56,7 +59,7 @@ Na representação acima tense o funcionamento da arquitetura MVC aplicada no ra
 ### 3. Restrições de Arquitetura e Metas 
 A arquitetura definida:
 
-O sistema deverá ser desenvolvido usando Ruby on Rails, que é uma framework escrito na linguagem Ruby e baseado no padrão de arquitetura MVC (Model-View-Controller), como já citado neste documento.
+O sistema deverá ser desenvolvido usando _Ruby on Rails_, que é uma _framework_ escrito na linguagem _Ruby_ e baseado no padrão de arquitetura MVC (_Model-View-Controller_), como já citado neste documento.
 
 Para a persistência de dados será utilizado o SQLite3, devido a sua praticidade e estabilidade.
 
@@ -74,21 +77,21 @@ Os [diagramas de sequência](https://github.com/vitornere/partiuformar/wiki/Diag
  
 ### 5. Visão Lógica
 
-O usuário interage com o sistema através da view, realizando alguma operação no sistema, a view solicita a controller a ação realizada, A controller processa as informações por meio da  comunicação com a model e a Dao, que por sua vez se comunica com o banco de dados, que por conseguinte repassa o resultado da operação solicitada para a view.
+O usuário interage com o sistema através da _view_, realizando alguma operação no sistema, a _view_ solicita a _controller_ a ação realizada, A _controller_ processa as informações por meio da  comunicação com a _model_ e a Dao, que por sua vez se comunica com o banco de dados, que por conseguinte repassa o resultado da operação solicitada para a _view_.
 
 #### 5.1 Visão Geral    
 
-O sistema **#PartiuFormar** é uma aplicação web construída de acordo com o modelo de arquitetura **MVC** (model-view-controller).
+O sistema **#PartiuFormar** é uma aplicação web construída de acordo com o modelo de arquitetura **MVC** (_model-view-controller_).
 
-1. A camada de _View_ é responsável pelo front-end, onde é estabelecida a comunicação entre o usuário e a aplicação. A comunicação acontece apenas com a Controller, através de requisições.
+1. A camada de _View_ é responsável pelo front-end, onde é estabelecida a comunicação entre o usuário e a aplicação. A comunicação acontece apenas com a _Controlle_r, através de requisições.
 
-2. A camada _Controller_ trata da parte que processa cada ação do sistema, como por exemplo, requisições do usuário. Didaticamente, pode ser entendida como uma ponte de ligação entre a Model e a View, ou seja a _Controller_ interpreta os eventos que acontecem na camada View, e opera os dados que estão na _Model_ validando os mesmos, estabelecendo a comunicação com a _DAO_ a qual fica com a responsabilidade de armazenar estes dados no banco de dados da aplicação.
+2. A camada _Controller_ trata da parte que processa cada ação do sistema, como por exemplo, requisições do usuário. Didaticamente, pode ser entendida como uma ponte de ligação entre a _Model_ e a_ View_, ou seja a _Controller_ interpreta os eventos que acontecem na camada _View_, e opera os dados que estão na _Model_ validando os mesmos, estabelecendo a comunicação com a _DAO_ a qual fica com a responsabilidade de armazenar estes dados no banco de dados da aplicação.
 
 2. A camada de _Model_ representa os dados da aplicação, basicamente na camada _Model_ ocorre o tratamento da escrita, validação e leitura dos dados. Estes dados devem estar descritos pelas regras de negócio do sistema. Assim a _Model_, armazena se necessário os dados na _DAO_, e se comunica com a _Controller_ quando houver necessidade de exibição, e a _Controller_ decidirar em qual view exibir os dados da _Model_ .
 
 4. A camada _DAO_ (Data Access Object) é responsável, por manter a persistência no banco de dados.
 
-5. Router esta camada é nativa do Rubi on Rails, a qual reconhece URLs e direciona a uma _Controller_ especifica.
+5. Router esta camada é nativa do _Rubi on Rails_, a qual reconhece URLs e direciona a uma _Controller_ especifica.
  
 #### 5.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura     
 
@@ -105,7 +108,7 @@ Representação do Diagrama de classes da _Model_.
 ### 7. Visão de Dados 
 
 #### 7.1 Modelo Lógico
-Diagrama de esquema do banco de dados, feito na ferramenta MySQL Workbench. 
+Diagrama de esquema do banco de dados, feito na ferramenta _MySQL Workbench_. 
 ![Lógico](http://i.imgur.com/TQHaqgl.png)         
 
 ### 8. Tamanho e Desempenho               
