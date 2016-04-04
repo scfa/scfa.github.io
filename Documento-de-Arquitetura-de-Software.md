@@ -7,24 +7,37 @@
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 -----|------|---------|-------
-27/03/2016|1.0|estruturação inicial do documento|Jônnatas Lennon Lima Costa
+27/03/2016|1.0|Estruturação inicial do documento|Jônnatas Lennon Lima Costa
 31/03/2016|1.1|Visão Geral, inicio Restrições|Eduardo Brasil 
-03/04/2016|1.2| Tamanho e Desempenho ,Qualidade|Eduardo Brasil
+02/04/2016|1.2|Adição da seção 5.2|Vitor Nere
+03/04/2016|1.3|Tamanho e Desempenho ,Qualidade|Eduardo Brasil
+03/04/2016|1.4|Adições e alterações das seções 5.1, 7.1, 8.1|Jônnatas Lennon
+03/04/2016|1.5|Adição da seção 1.4 e ajustes|Vitor Nere
 
 ### 1. Introdução         
 #### 1.1 Finalidade    
 Este artefato detalha a arquitetura utilizada no desenvolvimento do sistema <strong><em>#PartiuFormar</em></strong>. 
 
 #### 1.2 Escopo 
-Este documento trata da implementação arquitetura do #PartiuFormar com base nos diagramas <em>UML</em> acerca dos casos de uso, diagramas de classe, além da visão lógica do sistema com o detalhamento da arquitetura MVC utilizada, no desenvolvimento.
+Este documento trata da implementação arquitetura do #PartiuFormar com base nos diagramas <em>UML</em> acerca dos casos de uso, diagramas de classe, além da visão lógica do sistema com o detalhamento da arquitetura MVC utilizada, no desenvolvimento.  
 
-#### 1.3 Definições, Acrônimos e Abreviações     
-
-#### 1.4 Referências     
+#### 1.3 Referências     
 [Documento de Arquitetura de Software (RUP)](http://www.wthreex.com/rup/process/artifact/ar_sadoc.htm)
 [Diagrama de Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Casos-de-Uso)
 
-#### 1.5 Visão Geral 
+#### 1.4 Visão Geral 
+
+Esse documento está dividido nas seguintes seções: 
+
+1. Introdução
+2. Representação da Arquitetura
+3. Restrição de Arquitetura e Metas 
+4. Visão de Casos de Uso
+5. Visão Lógica
+6. Visão de Implementação
+7. Visão de Dados
+8. Tamanho e Desempenho
+9. Qualidade
 
 ### 2. Representação da Arquitetura
 ![Arquitetura](http://i.imgur.com/BxSbwTs.png)
@@ -83,24 +96,22 @@ Aqui encontra-se uma representação visual dos pacotes presentes neste projeto:
 
 ![](http://i.imgur.com/2cmoh2R.png)
 
-### 6. Visão de Processos
-
-### 7. Visão de Implementação
-#### 7.1 Diagrama de Classes
+### 6. Visão de Implementação
+#### 6.1 Diagrama de Classes
 Representação do Diagrama de classes da _Model_. 
 
 ![Imgur](http://i.imgur.com/louPfjW.png)
 
-### 8. Visão de Dados 
+### 7. Visão de Dados 
 
-#### 8.1 Modelo lógico
+#### 7.1 Modelo Lógico
 Diagrama de esquema do banco de dados, feito na ferramenta MySQL Workbench. 
 ![Lógico](http://i.imgur.com/TQHaqgl.png)         
 
-### 9. Tamanho e Desempenho               
+### 8. Tamanho e Desempenho               
 
 O objetivo do **#PartirFormar** é fazer com que o máximo de usuários consigam acessar o app no menor tempo possível. todavia, os fatores de desempenho dependem do servidor em que o app esteja hospedado
 
-### 10. Qualidade   
+### 9. Qualidade   
 
 Com a definição da arquitetura, houve uma independência proporcionada ao dividir em três partes principais a aplicação. O MVC também torna mais simples a manutenção do software, pois sua estrutura de arquivos torna fácil localizar trechos específicos de código, esse padrão arquitetural é a melhor solução para o modelo de aplicações web que propomos.
