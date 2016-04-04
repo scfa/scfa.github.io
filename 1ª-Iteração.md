@@ -8,8 +8,6 @@
 
 #### Artefatos Produzidos
 
->>[Modelo de domínio](https://github.com/vitornere/partiuformar/wiki/Modelo-de-Dom%C3%ADnio)
-
 >>[Diagrama de Classes](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Classes---1%C2%AA-Itera%C3%A7%C3%A3o)
 
 >>[Diagrama de Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Casos-de-Uso---1%C2%AA-Itera%C3%A7%C3%A3o)
