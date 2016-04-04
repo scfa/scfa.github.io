@@ -1,7 +1,7 @@
 #Plano de Gerenciamento de Configuração e Projeto
 ##  ***#PartiuFormar***
 
-### **Versão 1.0**
+### **Versão 1.2**
 
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
