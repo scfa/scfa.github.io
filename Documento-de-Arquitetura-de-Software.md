@@ -70,9 +70,9 @@ O sistema **#PartiuFormar** é uma aplicação web construída de acordo com o m
 
 2. A camada _Controller_ trata da parte que processa cada ação do sistema, como por exemplo, requisições do usuário. Didaticamente, pode ser entendida como uma ponte de ligação entre a Model e a View, ou seja a _Controller_ interpreta os eventos que acontecem na camada View, e opera os dados que estão na _Model_ validando os mesmos, estabelecendo a comunicação com a _DAO_ a qual fica com a responsabilidade de armazenar estes dados no banco de dados da aplicação.
 
-2. A camada de _Model_ representa os modelos de dados, os quais devem estar descritos pelas regras de negócio da aplicação, se comunicando com a Controller quando houver alterações nestes estados, armazenando estes dados na _DAO_.
+2. A camada de _Model_ representa os dados da aplicação, basicamente na camada _Model_ ocorre o tratamento da escrita, validação e leitura dos dados. Estes dados devem estar descritos pelas regras de negócio do sistema. Assim a _Model_, armazena se necessário os dados na _DAO_, e se comunica com a _Controller_ quando houver necessidade de exibição, e a _Controller_ decidirar em qual view exibir os dados da _Model_ .
 
-4. A camada _DAO_ (Data Access Object) é responsável, por manter a persistência no banco de dados, dos dados descritos pela Model.
+4. A camada _DAO_ (Data Access Object) é responsável, por manter a persistência no banco de dados.
 
 5. Router esta camada é nativa do Rubi on Rails, a qual reconhece URLs e direciona a uma _Controller_ especifica.
  
