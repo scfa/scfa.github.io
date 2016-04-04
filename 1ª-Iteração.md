@@ -8,6 +8,8 @@
 
 #### Artefatos Produzidos
 
+>>[Plano de Iteração](https://github.com/vitornere/partiuformar/wiki/Plano-da-Itera%C3%A7%C3%A3o-1)
+
 >>[Diagrama de Classes](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Classes---1%C2%AA-Itera%C3%A7%C3%A3o)
 
 >>[Diagrama de Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Casos-de-Uso---1%C2%AA-Itera%C3%A7%C3%A3o)
