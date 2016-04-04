@@ -13,18 +13,18 @@ Data|Versão|Descrição|Autor
 
 Neste documentos estará presente os diagramas de sequência que representa como será a comunicação dos atores com o sistema #PartiuFormar.
 
-#### 1.1 Consultar Usuário
-
-![](http://i.imgur.com/NSIL16t.png)
-
-#### 1.2 Criar Usuário
+#### UC01 - Criar Usuário
 
 ![](http://i.imgur.com/Kf8gkt3.png)
 
-#### 1.1 Editar Usuário
+#### UC02 - Editar Usuário
 
 ![](http://i.imgur.com/WIfoMZ8.png)
 
-#### 1.1 Excluir Usuário
+#### UC03 - Consultar Usuário
+
+![](http://i.imgur.com/NSIL16t.png)
+
+#### UC04 - Excluir Usuário
 
 ![](http://i.imgur.com/2GfIG0V.png)
