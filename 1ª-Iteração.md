@@ -18,13 +18,18 @@
 
 >>[Modelos de banco de dados](https://github.com/vitornere/partiuformar/wiki/Modelos-de-banco-de-dados)
 
->>[Especificação dos Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-dos-Casos-de-Uso---1%C2%AA-Itera%C3%A7%C3%A3o)
-
 >>[Especificação dos Casos de Teste](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-dos-Casos-de-Teste---1%C2%AA-Itera%C3%A7%C3%A3o)
 
 
 #### Casos de Uso
 
+>>[UC01 - Criar Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso-UC01---Criar-Usu%C3%A1rio)
+
+>>[UC02 - Editar Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Uso-UC02---Editar-Usu%C3%A1rio)
+
+>>[UC03 - Consultar Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-do-Caso-de-Uso-UC03---Consultar-Usu%C3%A1rio)
+
+>>[UC04 - Excluir Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso-UC04---Excluir-Usu%C3%A1rio)
 
 #### Fim da iteração
 ###### Mudanças solicitadas
