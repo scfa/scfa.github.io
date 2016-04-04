@@ -6,8 +6,8 @@
 
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
------|------|---------|-------
-28|0.1|Diagramas de classe da iteração 01| Jônnatas
+03/04| 1.0 |---------|Jônnatas Lennon
 
+Representação do Diagrama de classes da _Model_. 
 
-![Iteração 01](http://i.imgur.com/JJqnPuV.png)
+![Imgur](http://i.imgur.com/louPfjW.png)
