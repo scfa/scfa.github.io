@@ -6,7 +6,8 @@
 
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
-03/04| 1.0 |---------|Jônnatas Lennon
+----|------|---------|------------------
+03/04/2016| 1.0 |Criação do Diagrama de Classes|Jônnatas Lennon
 
 Representação do Diagrama de classes da _Model_. 
 
