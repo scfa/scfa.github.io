@@ -22,13 +22,13 @@ Apresentar todos os termos técnicos referentes aos artefatos gerados pelo **#Pa
 
 Encontra-se neste documento todas as definições e explicações necessárias para total entendimento dos termos utilizados na documentação do sistema **#PartiuFormar**
 
-##### 1.3 Visão Geral
-
 #### 2. Definições
+
+Abaixo estão listados os termos e suas respectivas definições.
 
 ##### 2.1 IRA
  
-• O Índice de Rendimento Acadêmico (IRA) avalia o desempenho dos estudantes ao longo do curso. Para calcular o IRA, que varia de 0 a 5, são consideradas as menções obtidas e o número de créditos das disciplinas cursadas pelo aluno, bem como o trancamento de matérias optativas e obrigatórias.(UnB,2016)
+O Índice de Rendimento Acadêmico (IRA) avalia o desempenho dos estudantes ao longo do curso. Para calcular o IRA, que varia de 0 a 5, são consideradas as menções obtidas e o número de créditos das disciplinas cursadas pelo aluno, bem como o trancamento de matérias optativas e obrigatórias.(UnB,2016)
 
 ##### 2.1 Grade Horária
 
