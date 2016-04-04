@@ -55,7 +55,7 @@ O Usuário deve estar cadastrado no sistema como Usuário.
 3. O Usuário confirma a exclusão
 4. O caso de uso retorna ao passo 8 do [FB](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso:-Manter-Usu%C3%A1rio#fluxo-b%C3%81sico-fb).
 
-### 5.3 FA03 – Alterar dador
+### 5.3 FA03 – Alterar dados
 
 1. O Usuário escolhe a opção para alterar uma aluno.
 2. O sistema exibe os dados atuais dos alunos.
