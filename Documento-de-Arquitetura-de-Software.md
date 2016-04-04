@@ -86,9 +86,11 @@ Aqui encontra-se uma representação visual dos pacotes presentes neste projeto:
 ### 7. Visão de Implantação
 
 ### 8. Visão de Implementação
-#### 8.1 Visão Geral     
-#### 8.2 Camadas 
-    
+#### 8.1 Diagrama de Classes
+Representação do Diagrama de classes da _Model_. 
+
+![Imgur](http://i.imgur.com/louPfjW.png)
+
 ### 9. Visão de Dados 
 
 #### 9.1 Modelo lógico
