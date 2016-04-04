@@ -29,7 +29,15 @@ Este plano está dividido em três aspectos:
 
 ##### 1.3               Definições, Acrônimos e Abreviações
 
+[Agile modeler](http://www.ambysoft.com/unifiedprocess/aup11/html/roles.html): Papel do AUP responsável pela elaboraçãp de modelos.
 
+[AUP - Agile Unified Process](http://www.ambysoft.com/unifiedprocess/agileUP.html): Processo de desenvolvimento de software baseado em princípios ágeis com definições do processo de desenvolvimento _Rational Unified Process_ (RUP).
+
+Fluxo: No contexto universitário, o Fluxo é a sequência recomendada por uma instituição de ensino de realização das disciplinas nos semestres.
+
+Grade Horária: Tabela de dia e horários das disciplinas cursadas em um determinado semestre.
+
+IRA: Índice de Rendimento Acadêmico.
 
 ##### 1.4               Referências
 
@@ -44,36 +52,41 @@ Este documento está dividido em três itens importantes para um desenvolvimento
 
 #### 2.                  Visão Geral do Projeto
 
+Esta seção descreve uma visão geral do projeto, tais como escopo, restrições e entregáveis.
+
 ##### 2.1               Finalidade, Escopo e Objetivos do Projeto
 
-O projeto tem como objetivo desenvolver um sistema que permite que o aluno possa, desde o início de sua graduação, realizar um plano de curso onde, a partir das matérias disponíveis, ser possível organizar e criar metas para cada semestre. Poderá acompanhar seu rendimento acadêmico e estimar qual será seu rendimento após um semestre. Além de poder compartilhar seu planejamento no perfil e poder pesquisar por planejamentos compartilhados mais comuns
+O projeto tem como objetivo desenvolver um sistema que permite que o aluno possa, desde o início de sua graduação, realizar um plano de curso onde, a partir das matérias disponíveis, ser possível organizar e criar metas para cada semestre. Poderá acompanhar seu rendimento acadêmico e estimar qual será seu rendimento após um semestre. Além de poder compartilhar seu planejamento no perfil e poder pesquisar por planejamentos compartilhados mais comuns.
 
 ##### 2.2               Suposições e Restrições
 
-O desenvolvimento do projeto possui apenas restrição de prazo que tem uma data de entrega determinada: 24 de junho de 2016.
+O desenvolvimento do projeto possui restrição de prazo que tem uma data de entrega determinada: 24 de junho de 2016.
 
 ##### 2.3               Produtos Liberados do Projeto
 
 O projeto possui como entregáveis os seguintes artefatos:
-Documento de Visão;
-Documento de Arquitetura de _Software_;
-Regras de Negócio;
-Especificação Suplementar;
-Glossário;
-Modelo de Domínio;
-Diagrama de Classes;
-Diagrama de Atores;
-Diagrama de Casos de Uso;
-Especificação de Casos de Uso;
-Diagrama de Sequência;
-Diagrama de Classes;
-Incremento de _Software_.
+* Documento de Visão;
+* Documento de Arquitetura de _Software_;
+* Regras de Negócio;
+* Especificação Suplementar;
+* Glossário;
+* Modelo de Domínio;
+* Diagrama de Classes;
+* Diagrama de Atores;
+* Diagrama de Casos de Uso;
+* Especificação de Casos de Uso;
+* Diagrama de Sequência;
+* Diagrama de Classes;
+* Incremento de _Software_.
 
 ##### 2.4               Evolução do Plano de Desenvolvimento de Software
 
 Este plano será refinado e incrementado a cada iteração de desenvolvimento do _software_.
 
 #### 3.                  Organização do Projeto
+
+Esta seção descreve como desenvolvimento do projeto será organizado a partir dos recursos disponíveis.
+
 ##### 3.1               Estrutura Organizacional
 
 A equipe de trabalho do projeto foi planejada de maneira com que todos da equipe trabalhem de maneira igualitária. Assim foi definido que para planejar e gerenciar o acompanhamento da iteração, a mesma terá uma dupla de gerentes que será mudada a cada iteração de acordo com a esquemática definida pela equipe de acordo com a tabela abaixo:
@@ -83,6 +96,7 @@ Iterações Ímpares: |Iterações pares:
 Hugo Martins e Vitor Nere|Eduardo Brasil e Jonnatas Lennon
 
 ##### 3.2               Papéis e Responsabilidades
+
 Pessoa|Papel
 ------------ | -------------|
 Eduardo Brasil|Agile Modeler, Gerente de Configuração, Escritor técnico, Desenvolvedor e _Tester_
@@ -95,6 +109,7 @@ Vitor Nere|Agile Modeler, Gerente de Configuração, Escritor técnico, Desenvol
 Nesta seção estão descritos alguns tópicos acerca do processo de gerenciamento do projeto, tais como estimativas de prazo, planos de fase, planejamento de _Releases_ e recursos do projeto.
 	
 ##### 4.1               Estimativas do Projeto
+
 Prazo|96 dias
 -------|---------------|----
 Data inicial:|21/03
@@ -102,9 +117,10 @@ Data final:| 24/06
 
 #### 4.2               Plano do Projeto
 
-O projeto está dividido em seis iterações. Cada iteração passa pelas quatro fases do processo de desenvolvimento de _software_ utilizado: Concepção, Elaboração, Construção e Transição.
+O projeto está dividido em seis iterações. Cada iteração passa pelas quatro fases do processo de desenvolvimento de _software_ utilizado (_UP - Agile Unified Process_): Concepção, Elaboração, Construção e Transição.
 
 ##### 4.2.1          Plano de Fase
+
 Iteração|Casos de Uso|Objetivos|Data de início|Data de Fim
 -------|---------------|------------------------------------------------------------------------------------------|---------|----------
 01|UC01 UC02 UC03 UC04|Artefatos da fase de Concepção e iniciar alguns artefatos da fase de Elaboração e immplementar incremento de software|21/03|04/04
@@ -153,6 +169,8 @@ Os requisitos do projeto serão gerenciados através de _Issues_ no repositório
 
 **Gerenciamento de Riscos:**
 
+O quadro abaixo mostra os riscos que o projeto possui, sua probabilidade de ocorrer, impacto e qual ação tomar caso este risco ocorra.
+
 Classificação de probabilidade (Alta, Média, Baixa)|Classificação de impacto (Alto, Médio, Baixo)|Impacto e Descrição do Risco|Estratégia de Diminuição e/ou Plano de Contingência|Ação a ser tomada
 ----------------|-----------------|----------------|-----------------|------------------
 Baixa|Alto|Membro da equipe sair do projeto|Integração e motivação da equipe| Redesignar atividades do membro desistente aos outros integrantes da equipe
@@ -165,6 +183,7 @@ Baixa|Alto|Suspensão do calendário acadêmico||Avaliar as mudanças ocorridas 
 Informações do Gerenciamento de Configuração pode ser visualizada no >>[Plano de Desenvolvimento de Software](https://github.com/vitornere/partiuformar/wiki/Plano-de-Desenvolvimento-de-Software)
 
 **Ambiente:**
+
 Versão do Ruby: 2.3.0
 Versão do Rails: 4.2.6
 Teste:
