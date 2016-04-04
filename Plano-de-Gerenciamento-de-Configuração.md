@@ -12,7 +12,7 @@ Data|Versão|Descrição|Autor
  
 
 #### 1.                  Introdução
-Este documento ira descreve as atividades do Gerenciamento de Controle de Configuração e Mudança (CCM), a serem executadas durante o projeto.
+Este documento irá descrever as atividades do Gerenciamento de Controle de Configuração e Mudança (CCM), a serem executadas durante o projeto.
 
 ##### 1.1               Finalidade
 Este artefato tem como intuito descrever como será desenvolvido o gerenciamento de configuração do _software_ #PartiuFormar, desenvolvido na disciplina Desenho de Software da UnB, detalhando como acontecerá o controle sobre as versões de trabalho produzida ao longo do tempo, bem como suas alterações.
