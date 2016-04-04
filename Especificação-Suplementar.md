@@ -2,12 +2,13 @@
 
 **Especificações Suplementares**
  
-**Versão 1.0**
+**Versão 1.1**
 
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 -----|------|---------|-------
-24/03/2015|1.0|Iniciação|Jônnatas Lennon
+24/03/2016|1.0|Iniciação|Jônnatas Lennon
+03/04/2016|1.1|Revisão do documento|Hugo Martins
 
 #### 1. Introdução
 
@@ -18,7 +19,7 @@ Este artefato consiste na descrição dos requisitos não funcionais do sistema 
 O **#PartiuFormar** será um sistema que auxiliará o graduando em uma Universidade de Ensino Superior a organizar de modo mais eficiente o seu semestre, além do fluxo durante o curso do mesmo.
 
 ##### 1.3 Definições, Acrônimos e Abreviações
-Vide documento visão.
+Vide [documento visão](https://github.com/vitornere/partiuformar/wiki/Documento-de-Vis%C3%A3o)
 
 ##### 1.4 Referências
 
@@ -51,7 +52,7 @@ Inicialmente este artefato apresenta, uma introdução sobre o projeto, para o c
 * **RNF 10** - Deve-se disponibilizar uma ferramenta de busca em todas as páginas.
 
 #### 4. Confiabilidade
-* **RNF 11** - O sistema deve está disponível no dia 24 de Julho de 2016.
+* **RNF 11** - O sistema deve está disponível no dia 24 de Junho de 2016.
 
 #### 5. Segurança
 * **RNF 12** - Em caso de exclusão de algum item, o sistema sempre deve exibir uma mensagem pedindo a confirmação.
