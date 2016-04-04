@@ -19,7 +19,7 @@ Este artefato tem como intuito descrever como será desenvolvido o gerenciamento
 
 ##### 1.2               Escopo
 
-Este modelo segue como inpiração o AUP](http://www.ambysoft.com/unifiedprocess/aup11/html/configurationManagement.html)
+Este modelo segue como inpiração o [AUP](http://www.ambysoft.com/unifiedprocess/aup11/html/configurationManagement.html)
 
 ##### 1.3               Visão Geral
 
