@@ -75,7 +75,7 @@ O sistema **#PartiuFormar** é uma aplicação web construída de acordo com o m
 
 5. Router esta camada é nativa do Rubi on Rails, a qual reconhece URLs e direciona a uma _Controller_ especifica.
  
-#### 5.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura     
+#### 5.1 Pacotes de Design Significativos do Ponto de Vista da Arquitetura     
 
 Aqui encontra-se uma representação visual dos pacotes presentes neste projeto:
 
@@ -83,20 +83,16 @@ Aqui encontra-se uma representação visual dos pacotes presentes neste projeto:
 
 ### 6. Visão de Processos
 
-### 7. Visão de Implantação
-
-### 8. Visão de Implementação
-#### 8.1 Diagrama de Classes
+### 7. Visão de Implementação
+#### 7.1 Diagrama de Classes
 Representação do Diagrama de classes da _Model_. 
 
 ![Imgur](http://i.imgur.com/louPfjW.png)
 
-### 9. Visão de Dados 
+### 8. Visão de Dados 
 
-#### 9.1 Modelo lógico
+#### 8.1 Modelo lógico
 Diagrama de esquema do banco de dados, feito na ferramenta MySQL Workbench. 
-![Lógico](http://i.imgur.com/TQHaqgl.png)
+![Lógico](http://i.imgur.com/TQHaqgl.png)         
 
-### 10. Tamanho e Desempenho               
-
-### 11. Qualidade   
+### 10. Qualidade   
