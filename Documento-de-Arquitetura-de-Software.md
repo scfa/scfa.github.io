@@ -10,6 +10,7 @@ Data|Versão|Descrição|Autor
 27/03/2016|1.0|estruturação inicial do documento|Jônnatas Lennon Lima Costa
 31/03/2016|1.1|Visão Geral, inicio Restrições|Eduardo Brasil 
 03/04/2016|1.2| Tamanho e Desempenho ,Qualidade|Eduardo Brasil
+
 ### 1. Introdução         
 #### 1.1 Finalidade    
 Este artefato detalha a arquitetura utilizada no desenvolvimento do sistema <strong><em>#PartiuFormar</em></strong>. 
@@ -76,7 +77,7 @@ O sistema **#PartiuFormar** é uma aplicação web construída de acordo com o m
 
 5. Router esta camada é nativa do Rubi on Rails, a qual reconhece URLs e direciona a uma _Controller_ especifica.
  
-#### 5.1 Pacotes de Design Significativos do Ponto de Vista da Arquitetura     
+#### 5.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura     
 
 Aqui encontra-se uma representação visual dos pacotes presentes neste projeto:
 
@@ -96,10 +97,10 @@ Representação do Diagrama de classes da _Model_.
 Diagrama de esquema do banco de dados, feito na ferramenta MySQL Workbench. 
 ![Lógico](http://i.imgur.com/TQHaqgl.png)         
 
-### 10. Tamanho e Desempenho               
+### 9. Tamanho e Desempenho               
 
 O objetivo do **#PartirFormar** é fazer com que o máximo de usuários consigam acessar o app no menor tempo possível. todavia, os fatores de desempenho dependem do servidor em que o app esteja hospedado
 
-### 11. Qualidade   
+### 10. Qualidade   
 
 Com a definição da arquitetura, houve uma independência proporcionada ao dividir em três partes principais a aplicação. O MVC também torna mais simples a manutenção do software, pois sua estrutura de arquivos torna fácil localizar trechos específicos de código, esse padrão arquitetural é a melhor solução para o modelo de aplicações web que propomos.
