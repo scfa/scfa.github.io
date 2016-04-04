@@ -5,7 +5,7 @@ Data|Versão|Descrição|Autor
 -----|------|---------|-------
 30/03/2016|1.0|Criação do documento| Jônnatas Lennon Lima Costa
 
-* ###[UC01: Cadastrar Usuário](UC01---Criar-Usuario)
+* ###[UC01: Criar Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-do-Caso-de-Uso-UC01---Criar-Usu%C3%A1rio)
 
   * ####**CT001:** Cadastrar usuário com os campos preenchidos corretamente.
     **Descrição:** Este caso de teste tem por finalidade, testar se o sistema cadastra corretamente do usuário.
@@ -53,7 +53,7 @@ Data|Versão|Descrição|Autor
 
     **Dados requeridos:** [RN04](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#2------------------defini%C3%A7%C3%B5es)
 
-* ###[UC02: Editar Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-do-Caso-de-Uso-UC02---Editar-Usu%C3%A1rio#uc02---editar-usu%C3%A1rio)
+* ###[UC02: Editar Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-do-Caso-de-Uso-UC02---Editar-Usu%C3%A1rio)
 
   * ####**CT006:**  Editar usuário com os campos corretamente.
     **Descrição:** Este caso de teste tem por finalidade, exibir uma mensagem de sucesso da operação, quando campos foram editados corretamente.
@@ -74,7 +74,7 @@ Data|Versão|Descrição|Autor
     **Dados requeridos:** [RN04](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#2------------------defini%C3%A7%C3%B5es)
 
 
-* ###[UC03: Consultar Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-do-Caso-de-Uso-UC03---Consultar-Usu%C3%A1rio#uc03---consultar-usu%C3%A1rio)
+* ###[UC03: Consultar Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-do-Caso-de-Uso-UC03---Consultar-Usu%C3%A1rio)
 
   * ####**CT008:**  Consultar um usuário, com os campos preenchidos corretamente.
     **Descrição:** Este caso de teste tem por finalidade, verificar se o sistema executa a consulta de um usuário, com os campos da busca preenchidos corretamente. 
