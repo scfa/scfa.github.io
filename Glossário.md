@@ -2,13 +2,14 @@
 
 ##  ***#PartiuFormar***
    
-### **Versão 1.0**
+### **Versão 1.2**
 
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 -----|------|---------|-------
-31/03/2016|0.1|Introdução, Finalidade, Escopo, Definições 2.1, 2.2, 2.3|Eduardo Brasil
-31/03/2016|0.2|Definições 2.4, Referencias Bibliográficas |Eduardo Brasil
+31/03/2016|1.0|Introdução, Finalidade, Escopo, Definições 2.1, 2.2, 2.3|Eduardo Brasil
+31/03/2016|1.1|Definições 2.4, Referencias Bibliográficas |Eduardo Brasil
+03/04/2016|1.2|Alterações de alguns itens no glossário|Hugo Martins
 
 #### 1. Introdução
 
@@ -29,13 +30,45 @@ Encontra-se neste documento todas as definições e explicações necessárias p
  
 • O Índice de Rendimento Acadêmico (IRA) avalia o desempenho dos estudantes ao longo do curso. Para calcular o IRA, que varia de 0 a 5, são consideradas as menções obtidas e o número de créditos das disciplinas cursadas pelo aluno, bem como o trancamento de matérias optativas e obrigatórias.(UnB,2016)
 
-##### 2.1 IRA
+##### 2.1 Grade Horária
 
-##### 2.1 IRA
+Tabela de dia e horários das disciplinas cursadas em um determinado semestre.
 
-##### 2.1 IRA
+##### 2.1 UnB
 
-##### 2.1 IRA
+Universidade de Brasília
+
+##### 2.1 Fluxo
+
+Sequência recomendada por uma instituição de ensino de realização das disciplinas nos semestres
+
+##### 2.1 SR
+
+Menção Sem Rendimentos. Esta menção é atribuída caso o aluno obtenha média 0,0 na disciplina ou possua mais de 25% de faltas.
+
+##### 2.1 II
+
+Menção Inferior. Esta menção é atribuída caso o aluno obtenha média entre 0,1 e 2,9 na disciplina.
+
+##### 2.1 MI
+
+Menção Média Inferior. Esta menção é atribuída caso o aluno obtenha média entre 3,0 e 4,9 na disciplina.
+
+##### 2.1 MM
+
+Menção Média. Esta menção é atribuída caso o aluno obtenha média entre 5,0 e 6,9 na disciplina.
+
+##### 2.1 MS
+
+Menção Média Superior. Esta menção é atribuída caso o aluno obtenha média entre 7,0 e 8,9 na disciplina.
+
+##### 2.1 SS
+
+Menção Superior. Esta menção é atribuída caso o aluno obtenha média entre 9,0 e 10,0 na disciplina.
+
+##### 2.1 CC
+
+Menção Créditos Concedidos. Esta menção é atribuída caso o aluno obtenha os créditos de alguma disciplina por outro meio que não seja cursando a disciplina na Universidade. Exemplo: Disciplinas cursadas que são aproveitadas de outra universidade.
 
 ## Referencias Bibliográficas
 
