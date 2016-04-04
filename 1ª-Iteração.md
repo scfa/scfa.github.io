@@ -23,9 +23,9 @@
 
 #### Casos de Uso
 
->>[UC01 - Criar Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso-UC01---Criar-Usu%C3%A1rio)
+>>[UC01 - Criar Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-do-Caso-de-Uso-UC01---Criar-Usu%C3%A1rio)
 
->>[UC02 - Editar Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Uso-UC02---Editar-Usu%C3%A1rio)
+>>[UC02 - Editar Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-do-Caso-de-Uso-UC02---Editar-Usu%C3%A1rio)
 
 >>[UC03 - Consultar Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-do-Caso-de-Uso-UC03---Consultar-Usu%C3%A1rio)
 
