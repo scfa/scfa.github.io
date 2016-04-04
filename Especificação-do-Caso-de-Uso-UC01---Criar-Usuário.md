@@ -25,9 +25,9 @@ Não há.
 
 ## Fluxo Básico 
 1. Usuário escolhe a opção de criar Usuário
-2. O sistema exibe ao Usuário o formulário de criação. [RN03](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#usu%C3%A1rios)
+2. O sistema exibe ao Usuário o formulário de criação. [[RN03](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#usu%C3%A1rios)]
 3. O Usuário preenche os campos e solicita a confirmação do cadastro.
-4. O sistema realiza a validação dos dados preenchidos.[RN01](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#usu%C3%A1rios), [RN02](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#usu%C3%A1rios)
+4. O sistema realiza a validação dos dados preenchidos.[[RN01](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#usu%C3%A1rios), [RN02](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#usu%C3%A1rios)]
 5. sistema realiza o cadastro do usuário.
 6. O caso de uso é encerrado.
 	
