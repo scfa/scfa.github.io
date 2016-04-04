@@ -7,7 +7,7 @@
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 -----|------|---------|-------
-31|0.1|Inserção do modelo de domínio, referente a primeira iteração| Jônnatas Lennon Lima Costa
+31|1.0|Inserção do modelo de domínio, referente a primeira iteração| Jônnatas Lennon Lima Costa
 
 
 ![Versão inicial do modelo de domínio](http://i.imgur.com/s1IFXF8.png)
