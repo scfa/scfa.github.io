@@ -27,7 +27,7 @@ Usuário autenticado.
 1. O Usuário escolhe a opção de consultar usuários. 
 2. O sistema solicita ao Usuário os dados do aluno para consulta.
 3. O Usuário preenche os campos para consulta.
-4. O sistema valida e apresenta os resultados da consulta. [FE01]()
+4. O sistema valida e apresenta os resultados da consulta. [FE01](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-do-Caso-de-Uso-UC03---Consultar-Usu%C3%A1rio#fluxo-de-exce%C3%A7%C3%A3o)
 5. O Usuário seleciona o aluno que deseja.
 6. O sistema apresenta os dados do aluno.
 7. O caso de uso é encerrado..
