@@ -93,3 +93,12 @@ Data|Versão|Descrição|Autor
     **Pós-condições:** O sistema exibirá uma mensagem informando que o usuário não existe
 
     **Dados requeridos:** [RN04](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#2------------------defini%C3%A7%C3%B5es)
+
+* ###[UC04: Excluir Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso-UC04---Excluir-Usu%C3%A1rio)
+
+  * ####**CT010:**  Excluir Usuário.
+    **Descrição:** Este caso de teste tem por finalidade, verificar se o sistema está excluindo um usuário corretamente. 
+
+    **Pré-condições:** Opção de exclusão de usuário selecionada.
+
+    **Pós-condições:** O sistema exibirá uma mensagem informando que o usuário foi excluído com sucesso.
