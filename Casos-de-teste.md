@@ -53,14 +53,43 @@ Data|Versão|Descrição|Autor
 
     **Dados requeridos:** [RN04](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#2------------------defini%C3%A7%C3%B5es)
 
+* ###[UC02: Editar Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-do-Caso-de-Uso-UC02---Editar-Usu%C3%A1rio#uc02---editar-usu%C3%A1rio)
 
-* ###[UC02: Cadastrar Usuário](UC01---Criar-Usuario)
+  * ####**CT006:**  Editar usuário com os campos corretamente.
+    **Descrição:** Este caso de teste tem por finalidade, exibir uma mensagem de sucesso da operação, quando campos foram editados corretamente.
 
-  * ####**CT005:** Cadastrar usuário com um formato inválido no email.
-    **Descrição:** Este caso de teste tem por finalidade, exibir uma mensagem de erro ao cadastrar um usuário com o email em formato inválido.
+    **Pré-condições:** Campos editados corretamente.
 
-    **Pré-condições:** Campos preenchidos corretamente, com o email em formato inválido.
+    **Pós-condições:** O sistema exibirá uma mensagem informando sucesso na edição.
 
-    **Pós-condições:** O sistema exibirá uma mensagem informando erro no preenchimento do email.
+    **Dados requeridos:** [RN04](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#2------------------defini%C3%A7%C3%B5es)
+
+  * ####**CT007:**  Editar usuário mantendo alguns campos em branco.
+    **Descrição:** Este caso de teste tem por finalidade, exibir uma mensagem de erro ao editar um usuário com algum campo obrigatório em branco.
+
+    **Pré-condições:** Campos editados corretamente, mantendo algum campo obrigatório em branco.
+
+    **Pós-condições:** O sistema exibirá uma mensagem, informando que o campo não pode permanecer em branco.
+
+    **Dados requeridos:** [RN04](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#2------------------defini%C3%A7%C3%B5es)
+
+
+* ###[UC03: Consultar Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-do-Caso-de-Uso-UC03---Consultar-Usu%C3%A1rio#uc03---consultar-usu%C3%A1rio)
+
+  * ####**CT008:**  Consultar um usuário, com os campos preenchidos corretamente.
+    **Descrição:** Este caso de teste tem por finalidade, verificar se o sistema executa a consulta de um usuário, com os campos da busca preenchidos corretamente. 
+
+    **Pré-condições:** Campos preenchidos corretamente.
+
+    **Pós-condições:** O sistema exibirá os dados do usuário.
+
+    **Dados requeridos:** [RN04](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#2------------------defini%C3%A7%C3%B5es)
+
+  * ####**CT009:**  Consultar um usuário inexistente.
+    **Descrição:** Este caso de teste tem por finalidade, verificar se o sistema envia uma mensagem quando consulta-se um usuário inexistente. 
+
+    **Pré-condições:** Campos preenchidos corretamente na consulta de um usuário inexistente.
+
+    **Pós-condições:** O sistema exibirá uma mensagem informando que o usuário não existe
 
     **Dados requeridos:** [RN04](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#2------------------defini%C3%A7%C3%B5es)
