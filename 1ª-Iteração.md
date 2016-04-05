@@ -31,12 +31,11 @@
 >>[UC04 - Excluir Usuário](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso-UC04---Excluir-Usu%C3%A1rio)
 
 #### Fim da iteração
-###### Mudanças solicitadas
-|ID|Mudança|
-|-------|--------------|
 
 ###### Débitos
-|ID|Débito|
-|-------|--------------|
-
+ID|Débito|
+-------|--------------|
+01|UC03 - Consultar Usuário
+02|UC04 - Excluir Usuário
+03|Testar Casos de Uso da Iteração
 
