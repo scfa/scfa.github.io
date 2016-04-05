@@ -2,7 +2,7 @@
 
 ##  ***#PartiuFormar***
    
-### **Versão 1.2**
+### **Versão 1.3**
 
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
@@ -10,6 +10,7 @@ Data|Versão|Descrição|Autor
 31/03/2016|1.0|Introdução, Finalidade, Escopo, Definições 2.1, 2.2, 2.3|Eduardo Brasil
 31/03/2016|1.1|Definições 2.4, Referencias Bibliográficas |Eduardo Brasil
 03/04/2016|1.2|Alterações de alguns itens no glossário|Hugo Martins
+03/04/2016|1.3!Colocando glossário em ordem alfabética|Hugo Martins
 
 #### 1. Introdução
 
