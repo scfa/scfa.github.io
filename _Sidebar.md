@@ -17,7 +17,7 @@
 
 >> [Documento de Arquitetura](https://github.com/vitornere/partiuformar/wiki/Documento-de-Arquitetura-de-Software)
 
->> [Diagramas de sequência de sistema](https://github.com/vitornere/partiuformar/wiki/Diagramas-de-Sequ%C3%AAncia-de-Sistema)
+>> [Diagramas de sequência de sistema](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Sequ%C3%AAncia---1%C2%AA-Itera%C3%A7%C3%A3o)
 
 
 >> [Folha de estilos](Folha-de-estilos)
