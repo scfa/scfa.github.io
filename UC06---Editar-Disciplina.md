@@ -1,4 +1,4 @@
-# **UC05 - Editar Disciplina**
+# **UC06 - Editar Disciplina**
 
 ##  ***#PartiuFormar***
 
