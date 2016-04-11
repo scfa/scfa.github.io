@@ -7,7 +7,8 @@
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 ----|------|---------|------------------
-11/04/2016| 1.0 |Criação do documento|Eduardo Brasil Martins
+11/04/2016| 1.0 |Criação do documento|Eduardo Brasil
+11/04/2016| 1.0 |Refinando documento|Hugo Martins
 
 #### 1.                  Introdução
 Esse documento descreve o planejamento da Iteração 2 do software _#PartiuFormar_.
@@ -37,8 +38,9 @@ O plano está dividido nos itens a seguir:
 
 
 #### 2.                  Plano
-O cronograma da iteração 2 se encontra na imagem abaixo:
-![Cronograma - 01](http://i.imgur.com/yKuCoVd.png)
+O cronograma da iteração 2 se encontra nas imagens abaixo:
+![Cronograma - 01](http://imgur.com/GE4tMBr.png)
+![Cronograma - 01](http://imgur.com/IaWWTMI.png)
 
 
 #### 3.                  Recursos
