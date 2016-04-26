@@ -10,7 +10,7 @@ Data|Versão|Descrição|Autor
 26/04/2016|1.0|Criação do documento| Eduardo Brasil
 
 
-#### 1. Caso de Uso: UC02 - Editar Disciplina
+#### 1. Caso de Uso: UC06 - Editar Disciplina
 
 ## Descrição
 
