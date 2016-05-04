@@ -26,13 +26,13 @@ A disciplina deve está cadastrada no sistema.
 
 ## Fluxo Básico 
 
-1. O usuário escolhe a opção de consultar disciplina.
+1. O Administrador do sistema escolhe a opção de consultar disciplina.
 
-2. O Usuário escolhe a opção para alterar uma disciplina.
+2. O Administrador do sistema escolhe a opção para alterar uma disciplina.
 
 3. O sistema exibe os dados atuais da disciplina. [[RN06](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#disciplinas)]
  
-4. O Usuário altera o(s) campo(s) desejado(s) e solicita a confirmação da alteração. 
+4. O Administrador do sistema altera o(s) campo(s) desejado(s) e solicita a confirmação da alteração. 
 
 5. O sistema realiza a validação dos dados preenchidos.[[RN05](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#disciplinas)]
 6. sistema realiza a alteração da Disciplina.
