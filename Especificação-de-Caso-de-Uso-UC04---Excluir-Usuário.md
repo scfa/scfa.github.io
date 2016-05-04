@@ -13,7 +13,7 @@ Data|Versão|Descrição|Autor
 
 ## Descrição
 
-Este caso de uso permite a exclusão usuário do sistema.
+Este caso de uso permite a exclusão de um usuário do sistema.
 
 ## Ator
 
@@ -21,7 +21,7 @@ Usuário
 
 ##Pré-Condições
 
-Não há.
+Usuário autenticado.
 
 ## Fluxo Básico 
 
