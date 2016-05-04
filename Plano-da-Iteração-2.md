@@ -11,7 +11,7 @@ Data|Versão|Descrição|Autor
 11/04/2016| 1.0 |Refinando documento|Hugo Martins
 
 #### 1.                  Introdução
-Esse documento descreve o planejamento da Iteração 2 do software _#PartiuFormar_.
+Esse documento descreve o planejamento da Iteração 2 do _software_ _#PartiuFormar_.
 
 ##### 1.1               Finalidade
 A finalidade desse plano é definir os principais itens do planejamento da iteração.
