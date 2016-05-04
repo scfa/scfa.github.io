@@ -180,7 +180,7 @@ Baixa|Alto|Suspensão do calendário acadêmico||Avaliar as mudanças ocorridas 
 
 **Gerenciamento de Configuração:**
 
-Informações do Gerenciamento de Configuração pode ser visualizada no >>[Plano de Desenvolvimento de Software](https://github.com/vitornere/partiuformar/wiki/Plano-de-Desenvolvimento-de-Software)
+Informações do Gerenciamento de Configuração pode ser visualizada no >>[Plano de Gerência e Configuração](https://github.com/vitornere/partiuformar/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o)
 
 **Ambiente:**
 
