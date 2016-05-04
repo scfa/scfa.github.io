@@ -2,7 +2,7 @@
 
 ##  ***#PartiuFormar***
 
-### **Versão 1.2**
+### **Versão 1.3**
 
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
@@ -10,6 +10,7 @@ Data|Versão|Descrição|Autor
 03/04/2016|1.0|Criação do documento|Hugo Martins
 03/04/2016|1.1|Preenchimento dos itens de introdução, finalidade, escopo, referências, visão geral, visão geral do projeto, organização do projeto, e alguns itens do processo de gerenciamento|Hugo Martins
 03/04/2016|1.2|Preenchimento dos demais itens|Hugo Martins
+04/05/2016|1.3|Refinando artefato: Definindo no Plano de fase todos os casos de uso de cada iteração.|Hugo Martins
 
 #### 1.                  Introdução
 
