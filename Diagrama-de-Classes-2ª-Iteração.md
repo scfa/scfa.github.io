@@ -2,13 +2,13 @@
 
 ##  ***#PartiuFormar***
 
-### **Versão 2.0**
+### **Versão 2.1**
 
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 ----|------|---------|------------------
 03/05/2016| 2.0 |Criação do Diagrama de Classes|Jônnatas Lennon
-04/05/2016| 2.0 |Arrumando cardinalidadedo Diagrama de Classes|Hugo Martins
+04/05/2016| 2.1 |Arrumando cardinalidadedo Diagrama de Classes|Hugo Martins
 
 Representação do Diagrama de classes da _Model_. 
 
