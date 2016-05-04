@@ -2,12 +2,13 @@
 
 ##  ***#PartiuFormar***
 
-### **Versão 1.0**
+### **Versão 1.1**
 
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 -----|------|---------|-------
 11/04/2016| 1.0 |Criação do Documento | Eduardo Brasil
+04/05/2016| 1.1 |Refinando documento | Hugo Martins
 
 #### 1. Caso de Uso: UC05 - Criar Disciplina
 
@@ -17,7 +18,7 @@ Este caso de uso permite a criação de uma nova disciplina.
 
 ## Ator
 
-Usuário
+Administrador do sistema
 
 ##Pré-Condições
 
