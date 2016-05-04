@@ -34,10 +34,10 @@ Administrador do Sistema devera esta logado no sistema
 ## Fluxos Alternativos
 
 * 4a O código da disciplina já esta cadastrado no sistema
- 1. Retorna uma mensagem ao Administrador na tela informando que a disciplina já esta cadastrada.
+ 1. Retorna uma mensagem ao Administrador na tela informando que a disciplina já está cadastrada.
 
 ## Pós Condições
-* Deverá aparecer uma mensagem na tela informando que a disciplina criada.
+* Disciplina criada.
 
 ## Fluxo de Excessão
   FE01 - No passo 04 do fluxo básico, o sistema faz a validação dos campos. Caso os campos não estejam de acordo com a [RN06](https://github.com/vitornere/partiuformar/wiki/Regras-de-Neg%C3%B3cio#disciplinas) o sistema exibe uma mensagem informando o erro ocorrido e volta ao passo 2 do fluxo principal.
