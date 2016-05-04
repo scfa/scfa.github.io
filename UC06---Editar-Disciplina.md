@@ -22,7 +22,7 @@ Administrador do sistema
 
 ##Pré-Condições
 
-A disciplina deve esta cadastrada no sistema.
+A disciplina deve está cadastrada no sistema.
 
 ## Fluxo Básico 
 
