@@ -16,13 +16,13 @@
 
 >>[Glossário](https://github.com/vitornere/vouformar/wiki/Gloss%C3%A1rio)
 
->>[Modelo de Domínio](https://github.com/vitornere/partiuformar/wiki/Modelo-de-Dom%C3%ADnio)
+>>[Modelo de Domínio](https://github.com/vitornere/partiuformar/wiki/Modelo-de-Dom%C3%ADnio---2%C2%AAItera%C3%A7%C3%A3o)
 
->>[Diagrama de Classes](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Classes)
+>>[Diagrama de Classes](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Classes-2%C2%AA-Itera%C3%A7%C3%A3o)
 
 >>[Diagrama de Atores](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Atores)
 
->>[Diagrama de Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Casos-de-Uso)
+>>[Diagrama de Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Casos-de-Uso-2%C2%AA-Itera%C3%A7%C3%A3o)
 
 >>[Modelos de banco de dados](https://github.com/vitornere/partiuformar/wiki/Modelos-de-banco-de-dados)
 
