@@ -7,9 +7,8 @@
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 ----|------|---------|------------------
-03/05/2016| 2.0 |Criação do Diagrama de Classes|Jônnatas Lennon
-04/05/2016| 2.1 |Arrumando cardinalidadedo Diagrama de Classes|Hugo Martins
+03/05/2016| 2.0 |Inserindo o Diagrama de Classes|Jônnatas Lennon
 
 Representação do Diagrama de classes da _Model_. 
 
-![Imgur](http://imgur.com/EXfyxG9.png)
+![Imgur](http://i.imgur.com/g79gAxE.png)
