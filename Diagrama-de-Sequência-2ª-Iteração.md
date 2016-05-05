@@ -15,10 +15,17 @@ Neste documentos estará presente os diagramas de sequência que representa como
 
 #### UC05 - Criar Disciplina
 
+![](http://i.imgur.com/WlnpTMY.png)
+
 #### UC06 - Editar Disciplina
+
+![](http://i.imgur.com/k8ALGhd.png)
 
 #### UC07 - Consultar Disciplina
 
+![](http://i.imgur.com/icqAYfa.png)
+
 #### UC08 - Excluir Disciplina
 
+![] (http://i.imgur.com/F5dRK1S.png)
 
