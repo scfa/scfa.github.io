@@ -18,8 +18,6 @@
 
 >>[Diagrama de Sequência](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Sequ%C3%AAncia-2%C2%AA-Itera%C3%A7%C3%A3o)
 
->>[Diagrama de Sequência de Sistema](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Sequ%C3%AAncia-de-Sistema-2%C2%AA-Itera%C3%A7%C3%A3o)
-
 >>[Modelos de banco de dados](https://github.com/vitornere/partiuformar/wiki/Modelos-do-Banco-de-Dados-2%C2%AA-Itera%C3%A7%C3%A3o)
 
 >>[Especificação dos Casos de Teste](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-dos-Casos-de-Teste-2%C2%AA-Itera%C3%A7%C3%A3o)
