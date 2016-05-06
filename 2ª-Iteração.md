@@ -3,8 +3,8 @@
 ####Gerentes da iteração: [Eduardo Brasil](https://github.com/EduardoBrasil) e [Jônnatas Lennon](https://github.com/jonnatas).
 
 
-###Data de início: 04/04/2016
-###Data de fim: 17/04/2016
+###Data de início: 18/04/2016
+###Data de fim: 01/04/2016
 
 #### Artefatos Produzidos
 
@@ -41,11 +41,10 @@
 
 #### Fim da iteração
 
-###### Débitos
-ID|Débito|
--------|--------------|
-
 ###### Melhorias
 ID|Melhoria|
 -------|--------------|
+01|Login por CPF ou Email
+02|Ênfases das disciplinas
+
 
