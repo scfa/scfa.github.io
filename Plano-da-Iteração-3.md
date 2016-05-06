@@ -2,13 +2,14 @@
 
 ##  ***#PartiuFormar***
 
-### **Versão 1.1**
+### **Versão 1.2**
 
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 ----|------|---------|------------------
 11/04/2016| 1.0 |Criação do documento|Hugo Martins
 04/05/2016|1.1|Preenchendo itens do documento|Hugo Martins 
+06/05/2016|1.2|Refinando documento|Hugo Martins
 
 #### 1.                  Introdução
 Esse documento descreve o planejamento da Iteração 3 do _software_ _#PartiuFormar_.
@@ -34,9 +35,8 @@ O plano está dividido nos itens a seguir:
 * Critérios de Avaliação: Critérios avaliados para definir a aceitação das tarefas.
 
 #### 2.                  Plano
-O cronograma da iteração 3 se encontra nas imagens abaixo:
-![Cronograma - 01](http://imgur.com/HHXRueK.png)
-![Cronograma - 01](http://imgur.com/jzHIEkU.png)
+O cronograma da iteração 3 se encontra na imagem abaixo:
+![Cronograma - 01](http://imgur.com/OhjrCkH.png)
 
 #### 3.                  Recursos
 Os recursos utilizados serão os definidos no [Plano de Desenvolvimento de Software](https://github.com/vitornere/partiuformar/wiki/Plano-de-Desenvolvimento-de-Software).
