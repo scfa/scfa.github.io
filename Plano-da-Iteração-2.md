@@ -2,13 +2,14 @@
 
 ##  ***#PartiuFormar***
 
-### **Versão 1.0**
+### **Versão 1.2**
 
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 ----|------|---------|------------------
 11/04/2016| 1.0 |Criação do documento|Eduardo Brasil
-11/04/2016| 1.0 |Refinando documento|Hugo Martins
+11/04/2016| 1.1 |Refinando documento|Hugo Martins
+06/05/2016|1.2|Refinando documento|Hugo Martins
 
 #### 1.                  Introdução
 Esse documento descreve o planejamento da Iteração 2 do _software_ _#PartiuFormar_.
