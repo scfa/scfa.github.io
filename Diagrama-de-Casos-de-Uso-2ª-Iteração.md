@@ -7,6 +7,6 @@
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 ----|------|---------|------------------
-04/05|2.0|Diagrama de Casos de Uso da Iteração 2|Hugo Martíns
+26/04|2.0|Diagrama de Casos de Uso da Iteração 2|Hugo Martíns
 
 ![Iteração 02](http://imgur.com/4AORBEI.png)
