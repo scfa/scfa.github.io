@@ -16,6 +16,8 @@
 
 >>[Diagrama de Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Casos-de-Uso---1%C2%AA-Itera%C3%A7%C3%A3o)
 
+>>[Diagrama de Sequência de Sistema](https://github.com/vitornere/partiuformar/wiki/Diagramas-de-Sequ%C3%AAncia-de-Sistema)
+
 >>[Diagrama de Sequência](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Sequ%C3%AAncia---1%C2%AA-Itera%C3%A7%C3%A3o)
 
 >>[Modelos de banco de dados](https://github.com/vitornere/partiuformar/wiki/Modelos-de-banco-de-dados)
