@@ -38,9 +38,9 @@ O plano está dividido nos itens a seguir:
 
 
 #### 2.                  Plano
-O cronograma da iteração 2 se encontra nas imagens abaixo:
-![Cronograma - 01](http://imgur.com/hzFOcuS.png)
-![Cronograma - 01](http://imgur.com/vZJhwHH.png)
+O cronograma da iteração 2 se encontra na imagem abaixo:
+![Cronograma - 01](http://imgur.com/7p2R2L7.png)
+
 
 
 #### 3.                  Recursos
