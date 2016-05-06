@@ -5,7 +5,7 @@
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 -----|------|---------|-------
-05/05/2016|1.0|Criação do documento| Eduardo Brasil Martins
+27/04/2016|1.0|Criação do documento| Eduardo Brasil
 
 * ###[UC05: Criar Disciplina](https://github.com/vitornere/partiuformar/wiki/UC05---Criar-Disciplina)
 
