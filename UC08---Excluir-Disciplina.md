@@ -7,7 +7,7 @@
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 -----|------|---------|-------
-23/04|1.0|Criação do Documento|Hugo Martins
+26/04|1.0|Criação do Documento|Hugo Martins
 
 #### 1. Caso de Uso: UC08 - Excluir Disciplina
 
