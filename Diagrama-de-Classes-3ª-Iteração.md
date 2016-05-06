@@ -7,3 +7,6 @@
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 ----|------|---------|------------------
+
+
+![Classes](http://i.imgur.com/65oVnMy.png)
