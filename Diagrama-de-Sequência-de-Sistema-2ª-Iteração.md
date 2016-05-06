@@ -11,4 +11,4 @@ Data|Versão|Descrição|Autor
 
 #### Disciplina
 
-![](http://imgur.com/ohqITBX.png)
+![](http://imgur.com/9NarNJ3.png)
