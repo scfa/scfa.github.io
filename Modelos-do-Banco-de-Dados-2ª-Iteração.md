@@ -7,3 +7,6 @@
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 ----|------|---------|------------------
+04|0.4|Banco de dados|Jônnatas Lennon
+
+![Banco de dados](http://i.imgur.com/0y7ERe2.png)
