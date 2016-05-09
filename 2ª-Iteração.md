@@ -39,6 +39,13 @@
 
 #### Fim da iteração
 
+###### Débitos
+ID|Débito|
+-------|--------------|
+01|UC03 - Consultar Usuário
+02|UC07 - Consultar Disciplina
+03|Testar Casos de Uso da Iteração 01 e 02
+
 ###### Melhorias
 ID|Melhoria|
 -------|--------------|
