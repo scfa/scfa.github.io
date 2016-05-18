@@ -22,13 +22,6 @@
 
 #### Casos de Uso
 
->>[UC09 - Criar Turma](https://github.com/vitornere/partiuformar/wiki/UC09--Criar-Turma)
-
->>[UC10 - Editar Turma](https://github.com/vitornere/partiuformar/wiki/UC10-Editar-Turma)
-
->>[UC11 - Consultar Turma](https://github.com/vitornere/partiuformar/wiki/UC11-Consultar-Turma)
-
->>[UC12 - Excluir Turma](https://github.com/vitornere/partiuformar/wiki/UC12-Excluir-Turma)
 
 #### Fim da iteração
 
