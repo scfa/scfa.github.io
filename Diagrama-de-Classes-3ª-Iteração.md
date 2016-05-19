@@ -7,6 +7,9 @@
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 ----|------|---------|------------------
-16/05|3.0|Remodelando excluindo classes desnecessárias, e corrigindo erros na modelagem|Vitor Nere e Jônnatas Lennon
+03/04/2016| 1.0 |Criação do Diagrama de Classes|Jônnatas Lennon
+03/05/2016| 2.0 |Inserindo o Diagrama de Classes|Jônnatas Lennon
+16/05/2016|3.0|Remodelando excluindo classes desnecessárias, e corrigindo erros na modelagem|Vitor Nere e Jônnatas Lennon
+19/05/2016|3.1|Melhorado abstração do contexto após brainstorm|Vitor Nere e Jônnatas Lennon
 
-![Classes](http://i.imgur.com/HqrYDUz.png)
+![Classes](http://i.imgur.com/p6ZfgE4.png)
