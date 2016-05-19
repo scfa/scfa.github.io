@@ -7,6 +7,6 @@
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 ----|------|---------|------------------
+16/05|3.0|Remodelando excluindo classes desnecessárias, e corrigindo erros na modelagem|Vitor Nere e Jônnatas Lennon
 
-
-![Classes](http://i.imgur.com/65oVnMy.png)
+![Classes](http://i.imgur.com/HqrYDUz.png)
