@@ -18,7 +18,7 @@
 
 >>[Modelo de Domínio](https://github.com/vitornere/partiuformar/wiki/Modelo-de-Dom%C3%ADnio---3%C2%AAItera%C3%A7%C3%A3o)
 
->>[Diagrama de Classes](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Classes-2%C2%AA-Itera%C3%A7%C3%A3o)
+>>[Diagrama de Classes](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Classes-3%C2%AA-Itera%C3%A7%C3%A3o)
 
 >>[Diagrama de Atores](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Atores)
 
