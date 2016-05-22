@@ -26,6 +26,10 @@
 
 >>[Modelos de banco de dados](https://github.com/vitornere/partiuformar/wiki/Modelos-de-banco-de-dados)
 
+#### Apêndice
+
+>>[Brainstorm](https://github.com/vitornere/partiuformar/wiki/Brainstorm)
+
 ### Releases
 
 >>[1ª Release](https://github.com/vitornere/partiuformar/wiki/1%C2%AA-Release)
