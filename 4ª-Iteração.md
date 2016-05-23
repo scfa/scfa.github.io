@@ -24,7 +24,7 @@
 
 #### Casos de Uso
 
->>[UC09 - Planejar Grade Horária()
+>>[UC09 - Planejar Grade Horária]()
 
 >>[UC10 - Editar Grade Horária]()
 
