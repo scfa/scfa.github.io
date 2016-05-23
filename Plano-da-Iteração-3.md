@@ -43,13 +43,13 @@ Os recursos utilizados serão os definidos no [Plano de Desenvolvimento de Softw
 
 #### 4.                  Casos de Uso
 
->>[UC09 - Criar Turma](https://github.com/vitornere/partiuformar/wiki/UC09--Criar-Turma)
+>>[UC05 - Criar Disciplina](https://github.com/vitornere/partiuformar/wiki/UC05---Criar-Disciplina)
 
->>[UC10 - Editar Turma](https://github.com/vitornere/partiuformar/wiki/UC10-Editar-Turma)
+>>[UC06 - Editar Disciplina](https://github.com/vitornere/partiuformar/wiki/UC06---Editar-Disciplina)
 
->>[UC11 - Consultar Turma](https://github.com/vitornere/partiuformar/wiki/UC11-Consultar-Turma)
+>>[UC07 - Consultar Disciplina](https://github.com/vitornere/partiuformar/wiki/UC07---Consultar-Disciplina)
 
->>[UC12 - Excluir Turma](https://github.com/vitornere/partiuformar/wiki/UC12-Excluir-Turma)
+>>[UC08 - Excluir Disciplina](https://github.com/vitornere/partiuformar/wiki/UC08---Excluir-Disciplina)
 
 #### 5.                  Critérios de Avaliação
 Os testes unitários seguirão como base os [Casos de Teste](https://github.com/vitornere/partiuformar/wiki/Casos-de-teste).
