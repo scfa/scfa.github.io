@@ -125,11 +125,11 @@ O projeto está dividido em seis iterações. Cada iteração passa pelas quatro
 Iteração|Casos de Uso|Objetivos|Data de início|Data de Fim
 -------|---------------|------------------------------------------------------------------------------------------|---------|----------
 01|UC01 UC02 UC03 UC04|Artefatos da fase de Concepção, iniciar alguns artefatos da fase de Elaboração e implementar incremento de software.|21/03|04/04
-02|UC05 UC06 UC07 UC08|Refinar Artefatos da fase de Concepção, elaborar artefatos da fase de elaboração e implementar incremento de software.|04/04|17/04
-03|UC09 UC10 UC11 UC12|Refinar Artefatos da fase de Concepção, elaborar artefatos da fase de elaboração e implementar incremento de software.|18/04|01/05
-04|UC13 UC14 UC15 UC16||02/05|15/05
-05|UC17 UC18 UC19 UC20||16/05|29/05
-06|UC21||30/05|12/06
+02|UC05 UC06 UC07 UC08|Refinar Artefatos da fase de Concepção, elaborar artefatos da fase de elaboração e implementar incremento de software.|18/04|01/05
+03|UC09 UC10 UC11|Refinar Artefatos da fase de Concepção, elaborar artefatos da fase de elaboração e implementar incremento de software.|02/05|15/05
+04|UC12 UC13|Refinar Artefatos da fase de Concepção, elaborar artefatos da fase de elaboração e implementar incremento de software.|16/05|29/05
+05|UC14 UC15 UC16||30/05|12/06
+06|UC17||13/06|22/06
 
 ##### 4.2.2     Releases     
 
