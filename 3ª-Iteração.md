@@ -28,6 +28,13 @@
 
 #### Casos de Uso
 
+>>[UC05 - Criar Disciplina](https://github.com/vitornere/partiuformar/wiki/UC05---Criar-Disciplina)
+
+>>[UC06 - Editar Disciplina](https://github.com/vitornere/partiuformar/wiki/UC06---Editar-Disciplina)
+
+>>[UC07 - Consultar Disciplina](https://github.com/vitornere/partiuformar/wiki/UC07---Consultar-Disciplina)
+
+>>[UC08 - Excluir Disciplina](https://github.com/vitornere/partiuformar/wiki/UC08---Excluir-Disciplina)
 
 #### Fim da iteração
 
