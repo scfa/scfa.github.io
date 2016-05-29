@@ -30,7 +30,7 @@ Administrador do sistema autenticado.
 2. O sistema apresenta uma mensagem de confirmação de exclusão.
 3. O Administrador do sistema confirma a exclusão
 4. A disciplina é excluída.
-4. O caso de uso é encerrado.
+5. O caso de uso é encerrado.
 	
 ## Fluxos Alternativos
 Não há.
