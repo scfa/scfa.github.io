@@ -20,8 +20,6 @@
 
 >>[Modelos de banco de dados](https://github.com/vitornere/partiuformar/wiki/Modelos-do-Banco-de-Dados-3%C2%AA-Itera%C3%A7%C3%A3o)
 
->>[Especificação dos Casos de Teste](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-dos-Casos-de-Teste-3%C2%AA-Itera%C3%A7%C3%A3o)
-
 #### Apêndice
 
 >>[Brainstorm](https://github.com/vitornere/partiuformar/wiki/Brainstorm)
