@@ -32,8 +32,7 @@ Usuário deverá está logado no sistema
 6. O sistema volta para a tela da grade horária com a disciplina escolhida já incluída na grade.
 7. Os passos 3, 4, 5, 6 e 7 são repetidos quantas vezes necessárias pelo usuário.
 8. O usuário clica no botão de registro da grade horária.
-9. O sistema valida as informações.
-6. O caso de uso é encerrado.
+9. O caso de uso é encerrado.
 	
 ## Fluxos Alternativos
 
