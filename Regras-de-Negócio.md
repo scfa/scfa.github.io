@@ -2,7 +2,7 @@
 
 ##  ***#PartiuFormar***
    
-### **Versão 1.2**
+### **Versão 1.3**
 
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
@@ -10,6 +10,7 @@ Data|Versão|Descrição|Autor
 21/03/2016|1.0|Criação do documento|Hugo Martins / Jônnatas Lennon / Vitor Nere
 27/03/2016|1.1|Adicionado novas regras|Vitor Nere
 03/04/2016|1.2|Revisando o documento|Hugo Martins
+29/05/2016|1.3|Refinando o documento|Hugo Martins
 
 #### 1.                  Introdução
 
@@ -84,11 +85,12 @@ RN07|Um fluxo padrão é gerado a partir da escolha do curso pelo aluno.
 ID| Descrição
 -----|----------------------------------------------------------------
 RN008|Uma grade padrão é gerada a partir do planejamento de fluxo e o semestre cursado pelo aluno.
+RN009|Só é permitido a criação de um plano de grade horária se existir ao menos uma disciplina cadastrada no sistema.
 
 ##### IRA
 ID| Descrição
 -----|----------------------------------------------------------------
-RN009|O cálculo do IRA (Índice de Rendimento Acadêmico) é baseado na fórmula retirada do guia do calouro e pode ser alterada semestralmente, abaixo encontra-se como é realizado o cálculo: 
+RN010|O cálculo do IRA (Índice de Rendimento Acadêmico) é baseado na fórmula retirada do guia do calouro e pode ser alterada semestralmente, abaixo encontra-se como é realizado o cálculo: 
 
  **IRA** = { [ 1- (0,6 x DTb + 0,4 x DTp) **/** DC ] **X** [ (Σ Pi x CRi x Pei) **/** (Σ CRi x Pei) ] }
 
