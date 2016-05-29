@@ -20,8 +20,6 @@
 
 >>[Modelos de banco de dados](https://github.com/vitornere/partiuformar/wiki/Modelo-do-Banco-de-Dados-4%C2%AA-Itera%C3%A7%C3%A3o)
 
->>[Especificação dos Casos de Teste](https://github.com/vitornere/partiuformar/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Teste-4%C2%AA-Itera%C3%A7%C3%A3o)
-
 #### Casos de Uso
 
 >>[UC09 - Planejar Grade Horária](https://github.com/vitornere/partiuformar/wiki/UC09---Planejar-Grade-Hor%C3%A1ria)
