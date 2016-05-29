@@ -40,6 +40,9 @@ Os recursos utilizados serão os definidos no [Plano de Desenvolvimento de Softw
 
 #### 4.                  Casos de Uso
 
-#### 5.                  Critérios de Avaliação
-Os testes unitários seguirão como base os [Casos de Teste](https://github.com/vitornere/partiuformar/wiki/Casos-de-teste).
-A cobertura de teste mínima para o projeto é de 80%.
+>>[UC09 - Planejar Grade Horária](https://github.com/vitornere/partiuformar/wiki/UC09---Planejar-Grade-Hor%C3%A1ria)
+
+>>[UC10 - Editar Grade Horária](https://github.com/vitornere/partiuformar/wiki/UC10---Editar-Grade-Hor%C3%A1ria)
+
+>>[UC11 - Excluir Grade Horária](https://github.com/vitornere/partiuformar/wiki/UC11---Excluir-Grade-Hor%C3%A1ria)
+
