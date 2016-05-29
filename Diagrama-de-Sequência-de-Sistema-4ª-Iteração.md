@@ -7,3 +7,6 @@
 ### Histórico da Revisão
 Data|Versão|Descrição|Autor
 ----|------|---------|------------------
+29/05|1.0|Criando diagrama|Hugo Martins
+
+![Diagrama sequencia sistema 4 iteracao](http://imgur.com/XWVUnrU.png)
