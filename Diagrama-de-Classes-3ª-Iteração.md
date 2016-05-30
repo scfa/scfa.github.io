@@ -13,4 +13,4 @@ Data|Versão|Descrição|Autor
 19/05/2016|3.1|Melhorado abstração do contexto após brainstorm|Vitor Nere e Jônnatas Lennon
 20/05/2016|3.2|Adicionado _façade pattern_ e algumas correções|Vitor Nere e Jônnatas Lennon
 
-![Classes](http://i.imgur.com/oJnfUZs.png)
+![Classes](http://i.imgur.com/7bVaFwD.png)
