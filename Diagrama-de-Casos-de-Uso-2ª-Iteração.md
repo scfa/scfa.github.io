@@ -9,4 +9,4 @@ Data|Versão|Descrição|Autor
 ----|------|---------|------------------
 26/04|2.0|Diagrama de Casos de Uso da Iteração 2|Hugo Martíns
 
-![Iteração 02](http://imgur.com/4AORBEI.png)
+![Iteração 04](http://imgur.com/AnOOlt3.png)
