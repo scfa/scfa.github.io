@@ -18,11 +18,11 @@
 
 >>[Modelo de Domínio](https://github.com/vitornere/partiuformar/wiki/Modelo-de-Dom%C3%ADnio---3%C2%AAItera%C3%A7%C3%A3o)
 
->>[Diagrama de Classes](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Classes-3%C2%AA-Itera%C3%A7%C3%A3o)
+>>[Diagrama de Classes](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Classes-vers%C3%A3o-final)
 
 >>[Diagrama de Atores](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Atores)
 
->>[Diagrama de Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Casos-de-Uso-4%C2%AA-Itera%C3%A7%C3%A3o)
+>>[Diagrama de Casos de Uso](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Casos-de-Uso-vers%C3%A3o-final)
 
 >>[Modelos de banco de dados](https://github.com/vitornere/partiuformar/wiki/Modelos-de-banco-de-dados)
 
