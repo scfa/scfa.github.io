@@ -30,7 +30,7 @@ Usuário autenticado no sistema.
 2. O sistema apresenta uma mensagem de confirmação de exclusão.
 3. O Usuário confirma a exclusão
 4. A grade horária é excluída.
-4. O caso de uso é encerrado.
+5. O caso de uso é encerrado.
 	
 
 ## Fluxos Alternativos
