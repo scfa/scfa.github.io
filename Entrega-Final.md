@@ -10,7 +10,7 @@
 * [[Mémorias técnicas   STRATEGY]]
 * [[Mémorias técnicas   Memento]]
 
->>[Modelo de Domínio]
+>>[Modelo de Domínio](https://github.com/vitornere/partiuformar/wiki/Modelo-de-Dom%C3%ADnio-4%C2%AA-Itera%C3%A7%C3%A3o)
 
 >>[Diagrama de Classes](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Classes-vers%C3%A3o-final)
 
