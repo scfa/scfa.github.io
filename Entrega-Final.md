@@ -12,7 +12,7 @@
 
 >>[Modelo de Domínio]()
 
->>[Diagrama de Classes]()
+>>[Diagrama de Classes](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Classes-vers%C3%A3o-final)
 
 >>[Diagrama de Casos de Uso]()
 
