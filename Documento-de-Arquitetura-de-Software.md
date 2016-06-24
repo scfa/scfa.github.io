@@ -93,6 +93,9 @@ O sistema **#PartiuFormar** é uma aplicação web construída de acordo com o m
 
 5. Router esta camada é nativa do _Rubi on Rails_, a qual reconhece URLs e direciona a uma _Controller_ especifica.
  
+[Imgur](http://i.imgur.com/86NTVFj.png)
+Representação da visão geral do PartiuFormar
+
 #### 5.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura     
 
 Aqui encontra-se uma representação visual dos pacotes presentes neste projeto:
