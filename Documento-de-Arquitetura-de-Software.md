@@ -102,10 +102,14 @@ Aqui encontra-se uma representação visual dos pacotes presentes neste projeto:
 ![](http://i.imgur.com/2cmoh2R.png)
 
 ### 6. Visão de Implementação
-#### 6.1 Diagrama de Classes
+#### 6.1 Model
 Representação do Diagrama de classes da _Model_. 
 
-![Imgur](http://i.imgur.com/louPfjW.png)
+![Imgur](http://i.imgur.com/ATdXN1y.png)
+
+#### 6.2 View
+#### 6.3 Controller
+As controllers surgem por demanda, a medida que as classes de model são criadas, as classes de controller como o próprio nome diz funcionam como controladoras das requisições da View sobre os dados das models.
 
 ### 7. Visão de Dados 
 
