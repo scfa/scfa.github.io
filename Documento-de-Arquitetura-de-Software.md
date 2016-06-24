@@ -105,6 +105,13 @@ Aqui encontra-se uma representação visual dos pacotes presentes neste projeto:
 #### 6.1 Model
 Representação do Diagrama de classes da _Model_. 
 
+Como pode ser observado no diagrama abaixo, utilizamos o padrão **Strategy** para o calculo do **IRA**, isto ocorreu para dar maior flexibilidade ao código, este **Strategy** será aplicada na Grade curricular ao final do semestre, deste modo ao final do semestre em cada disciplina associada a grade aplica-se uma estrategia diferente para o calculo do ira com base na menção referente.
+
+Utilizou-se também o padrão **State** para alternar os estados das menções referentes as disciplinas, assim uma disciplina pode ter 8 estados diferentes (cursando CC, trancamento TR, SR, II, MI, MM, MS, SS).
+
+Para armazenar no fluxo as grades de semestres anteriores utilizou-se o padrão **Memento**, através deste padrão temos salvo as grades anteriores, para o calculo de um novo fluxo. 
+
+Tem-se também o **facade** para controlar o acesso do usuário no sistema, assim para um estudante apenas algumas funcionalidades serão exibidas, já na fachada do administrador todas as funcionalidades serão exibidas, para organizar melhor estas classes, criou-se dois pacotes diferentes o _StudentInterface _e o _AdminInterface_. 
 ![Imgur](http://i.imgur.com/ATdXN1y.png)
 
 #### 6.2 View
