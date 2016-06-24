@@ -115,6 +115,9 @@ Tem-se também o **facade** para controlar o acesso do usuário no sistema, assi
 ![Imgur](http://i.imgur.com/ATdXN1y.png)
 
 #### 6.2 View
+As views são separadas em pastas, nestas pastas contem-se os arquivos utilizados para a renderização da views.
+![Imgur](http://i.imgur.com/qZtiAjq.png)
+
 #### 6.3 Controller
 As controllers surgem por demanda, a medida que as classes de model são criadas, as classes de controller como o próprio nome diz funcionam como controladoras das requisições da View sobre os dados das models.
 
