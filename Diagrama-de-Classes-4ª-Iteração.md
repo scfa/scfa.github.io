@@ -9,5 +9,10 @@ Data|Versão|Descrição|Autor
 ----|------|---------|------------------
 29/05|4.0|Refinando o diagrama|Vitor Nere e Jonnatas Lennon
 
+![Imgur](http://i.imgur.com/znyBaKa.png)
 
-![Versão 4 do diagrama de classe](http://imgur.com/5VYToEE.png)
+Admin Iterface package
+![Imgur](http://i.imgur.com/JsAySpp.png)
+
+Student Interface package
+![Imgur](http://i.imgur.com/17AAXoD.png)
