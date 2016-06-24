@@ -24,9 +24,9 @@
 
 >>[UC13 - Planejar Fluxo](https://github.com/vitornere/partiuformar/wiki/UC13---Planejar-Fluxo)
 
->>[UC14 - Editar Fluxo]()
+>>[UC14 - Editar Fluxo](https://github.com/vitornere/partiuformar/wiki/UC14---Editar-Fluxo)
 
->>[UC15 - Excluir Fluxo](h)
+>>[UC15 - Excluir Fluxo]()
 
 >>[UC16 - Estimar IRA]()
 
