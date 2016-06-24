@@ -20,7 +20,7 @@
 
 #### Casos de Uso
 
->>[UC12 - Compartilhar Grade Horária]()
+>>[UC12 - Compartilhar Grade Horária](https://github.com/vitornere/partiuformar/wiki/UC12---Compartilhar-Grade-Hor%C3%A1ria)
 
 >>[UC13 - PLanejar Fluxo]()
 
