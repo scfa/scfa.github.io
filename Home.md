@@ -16,7 +16,7 @@
 
 >>[Glossário](https://github.com/vitornere/vouformar/wiki/Gloss%C3%A1rio)
 
->>[Modelo de Domínio](https://github.com/vitornere/partiuformar/wiki/Modelo-de-Dom%C3%ADnio---3%C2%AAItera%C3%A7%C3%A3o)
+>>[Modelo de Domínio](https://github.com/vitornere/partiuformar/wiki/Modelo-de-Dom%C3%ADnio-4%C2%AA-Itera%C3%A7%C3%A3o)
 
 >>[Diagrama de Classes](https://github.com/vitornere/partiuformar/wiki/Diagrama-de-Classes-vers%C3%A3o-final)
 
