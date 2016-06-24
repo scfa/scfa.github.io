@@ -22,7 +22,7 @@
 
 >>[UC12 - Compartilhar Grade Horária](https://github.com/vitornere/partiuformar/wiki/UC12---Compartilhar-Grade-Hor%C3%A1ria)
 
->>[UC13 - Planejar Fluxo]()
+>>[UC13 - Planejar Fluxo](https://github.com/vitornere/partiuformar/wiki/UC13---Planejar-Fluxo)
 
 >>[UC14 - Editar Fluxo]()
 
