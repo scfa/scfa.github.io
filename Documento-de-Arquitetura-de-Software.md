@@ -120,6 +120,7 @@ As views são separadas em pastas, nestas pastas contem-se os arquivos utilizado
 
 #### 6.3 Controller
 As controllers surgem por demanda, a medida que as classes de model são criadas, as classes de controller como o próprio nome diz funcionam como controladoras das requisições da View sobre os dados das models.
+![Imgur](http://i.imgur.com/9jXgzbg.png)
 
 ### 7. Visão de Dados 
 
