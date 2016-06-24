@@ -8,6 +8,7 @@
 Data|Versão|Descrição|Autor
 -----|------|---------|-------
 23/05|4.0|Refinando modelo de domínio|Hugo Martins
+23/05|5.0|Refinando modelo de domínio|Jônnatas
 
-![Versão 4 do modelo de domínio](http://imgur.com/0eOlU5d.png)
+![Imgur](http://i.imgur.com/ASfLZp7.png)
 
