@@ -43,18 +43,16 @@ Esse documento está dividido nas seguintes seções:
 
 ### 2. Representação da Arquitetura
 
+MVC padrão do Rails
 ![Arquitetura](http://i.imgur.com/BxSbwTs.png)
 
 Na representação acima mostra o funcionamento da arquitetura MVC aplicada no _rails_, a qual segue os seguintes passos, usuário digita _http://exemplo.com/bem-vindo .
 
 1. O _Browser_ faz uma solicitação para o _URL_ /bem-vindo, o pedido atinge o <em><strong>Rails router</strong></em>.
 2. O _Router_ mapeia o URL para uma _Controller_, para a manipulação da solicitação.
-3. A _Controller_ recebe o pedido, e pede a _Model_ buscar os dados no banco de dados na _DAO_.
-4. O _Model_ retorna dados para a ação da _Controller_.
+3. O _Model_ retorna dados para a ação da _Controller_.
 5. A _Controller_, passa os dados para a _View_.
 6. A _View_ renderiza e retorna a página como HTML, de volta para o _Browser_.
-
-![Visão geral](http://i.imgur.com/Hp4yBrN.png)
 
 ### 3. Restrições de Arquitetura e Metas 
 A arquitetura definida:
@@ -77,21 +75,22 @@ Os [diagramas de sequência](https://github.com/vitornere/partiuformar/wiki/Diag
  
 ### 5. Visão Lógica
 
-O usuário interage com o sistema através da _view_, realizando alguma operação no sistema, a _view_ solicita a _controller_ a ação realizada, A _controller_ processa as informações por meio da  comunicação com a _model_ e a Dao, que por sua vez se comunica com o banco de dados, que por conseguinte repassa o resultado da operação solicitada para a _view_.
+O usuário interage com o sistema através da _view_, realizando alguma operação no sistema, a _view_ solicita a _controller_ a ação realizada, A _controller_ processa as informações por meio da  comunicação com a _model_ e o datavase, que por sua vez se comunica com o banco de dados, que por conseguinte repassa o resultado da operação solicitada para a _view_.
 
 #### 5.1 Visão Geral    
+
+Visão geral da arquitetura
+![Visão geral](http://i.imgur.com/Hp4yBrN.png)
 
 O sistema **#PartiuFormar** é uma aplicação web construída de acordo com o modelo de arquitetura **MVC** (_model-view-controller_).
 
 1. A camada de _View_ é responsável pelo front-end, onde é estabelecida a comunicação entre o usuário e a aplicação. A comunicação acontece apenas com a _Controlle_r, através de requisições.
 
-2. A camada _Controller_ trata da parte que processa cada ação do sistema, como por exemplo, requisições do usuário. Didaticamente, pode ser entendida como uma ponte de ligação entre a _Model_ e a_ View_, ou seja a _Controller_ interpreta os eventos que acontecem na camada _View_, e opera os dados que estão na _Model_ validando os mesmos, estabelecendo a comunicação com a _DAO_ a qual fica com a responsabilidade de armazenar estes dados no banco de dados da aplicação.
+2. A camada _Controller_ trata da parte que processa cada ação do sistema, como por exemplo, requisições do usuário. Didaticamente, pode ser entendida como uma ponte de ligação entre a _Model_ e a_ View_, ou seja a _Controller_ interpreta os eventos que acontecem na camada _View_, e opera os dados que estão na _Model_ validando os mesmos, estabelecendo a comunicação com o database a qual fica com a responsabilidade de armazenar estes dados no banco de dados da aplicação.
 
-2. A camada de _Model_ representa os dados da aplicação, basicamente na camada _Model_ ocorre o tratamento da escrita, validação e leitura dos dados. Estes dados devem estar descritos pelas regras de negócio do sistema. Assim a _Model_, armazena se necessário os dados na _DAO_, e se comunica com a _Controller_ quando houver necessidade de exibição, e a _Controller_ decidirar em qual view exibir os dados da _Model_ .
+2. A camada de _Model_ representa os dados da aplicação, basicamente na camada _Model_ ocorre o tratamento da escrita, validação e leitura dos dados. Estes dados devem estar descritos pelas regras de negócio do sistema. Assim a _Model_, armazena se necessário os dados no database, e se comunica com a _Controller_ quando houver necessidade de exibição, e a _Controller_ decidirar em qual view exibir os dados da _Model_ .
 
-4. A camada _DAO_ (Data Access Object) é responsável, por manter a persistência no banco de dados.
-
-5. Router esta camada é nativa do _Rubi on Rails_, a qual reconhece URLs e direciona a uma _Controller_ especifica.
+4. Router esta camada é nativa do _Rubi on Rails_, a qual reconhece URLs e direciona a uma _Controller_ especifica.
  
 ![Imgur](http://i.imgur.com/86NTVFj.png)
 Representação da visão geral do PartiuFormar
