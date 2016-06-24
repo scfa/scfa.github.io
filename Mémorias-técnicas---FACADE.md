@@ -8,7 +8,7 @@ Este documento tem por finalidade manter o registro das decisões arquiteturais,
 
 ## 2.1. Resumo da solução
 
-Utilização do padrão Faca para garantir gerenciar o controle de acesso de modo dinâmico para os usuários e administradores no sistema.
+Utilização do padrão Facade para garantir gerenciar o controle de acesso de modo dinâmico para os usuários e administradores no sistema.
 
 ## 2.2. Fatores
 
