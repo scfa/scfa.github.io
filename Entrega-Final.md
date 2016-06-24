@@ -6,6 +6,8 @@
 
 >>[Memórias Técnicas]()
 * [[Mémorias técnicas   FACADE]]
+* [[Mémorias técnicas   STATE]]
+* [[Mémorias técnicas   STRATEGY]]
 
 >>[Modelo de Domínio]()
 
