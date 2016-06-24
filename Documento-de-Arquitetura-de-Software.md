@@ -120,7 +120,6 @@ Utilizou-se também o padrão **State** para alternar os estados das menções r
 Para armazenar no fluxo as grades de semestres anteriores utilizou-se o padrão **Memento**, através deste padrão temos salvo as grades anteriores, para o calculo de um novo fluxo. 
 
 Tem-se também o **facade** para controlar o acesso do usuário no sistema, assim para um estudante apenas algumas funcionalidades serão exibidas, já na fachada do administrador todas as funcionalidades serão exibidas, para organizar melhor estas classes, criou-se dois pacotes diferentes o _StudentInterface _e o _AdminInterface_. 
-![Imgur](http://i.imgur.com/ATdXN1y.png)
 
 #### 6.2 View
 As views são separadas em pastas, nestas pastas contem-se os arquivos utilizados para a renderização da views.
