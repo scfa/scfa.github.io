@@ -135,10 +135,14 @@ As controllers surgem por demanda, a medida que as classes de model são criadas
 Diagrama de esquema do banco de dados, feito na ferramenta _MySQL Workbench_. 
 ![Lógico](http://i.imgur.com/TQHaqgl.png)         
 
-### 8. Tamanho e Desempenho               
+#### 8. Visão de implantação
+Para a implantação do partiuformar pode-se utilizar o Heroku, este é bem simples e facil de configurar.
+![Imgur](http://i.imgur.com/PNAFUeB.png)
+
+### 9. Tamanho e Desempenho               
 
 O objetivo do **#PartirFormar** é fazer com que o máximo de usuários consigam acessar o app no menor tempo possível. todavia, os fatores de desempenho dependem do servidor em que o app esteja hospedado
 
-### 9. Qualidade   
+### 10. Qualidade   
 
 Com a definição da arquitetura, houve uma independência proporcionada ao dividir em três partes principais a aplicação. O MVC também torna mais simples a manutenção do software, pois sua estrutura de arquivos torna fácil localizar trechos específicos de código, esse padrão arquitetural é a melhor solução para o modelo de aplicações web que propomos.
