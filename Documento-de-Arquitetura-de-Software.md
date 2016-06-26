@@ -133,7 +133,7 @@ As controllers surgem por demanda, a medida que as classes de model são criadas
 
 #### 7.1 Modelo Lógico
 Diagrama de esquema do banco de dados, feito na ferramenta _MySQL Workbench_. 
-![Lógico](http://i.imgur.com/TQHaqgl.png)         
+![Banco de dados](http://i.imgur.com/0y7ERe2.png)    
 
 #### 8. Visão de implantação
 Para a implantação do partiuformar pode-se utilizar o Heroku, este é bem simples e facil de configurar.
